@@ -1,0 +1,928 @@
+"Caesar Rhenum transire decreverat", 1, 210, 339, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"en dextra fidesque", 1, 210, 339, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"ecce tuae litterae de Varrone", 2, 210, 339, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"Tiberine pater, te, sancte, precor", 1, 210, 340, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"res omnis mihi tecum erit, Hortensi", 2, 210, 340, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"audi tu, populus Albanus", 1, 210, 340, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"quo moriture ruis", 1, 210, 340, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"censorem trabeate salutas", 2, 210, 340, b, urn:cts:latinLit:phi0969.phi001.perseus-lat1
+"iuberem te macte virutute esse", 1, 210, 340, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"macte nova virtute puer", 2, 210, 340, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"libri Ciceronis", 1, 211, 342, nourn
+"inimici Caesaris", 2, 211, 342, nourn
+"talentum auri", 3, 211, 342, nourn
+"vir summae virtutis", 4, 211, 342, nourn
+"vacatio laboris", 5, 211, 342, nourn
+"petitio consulatus", 6, 211, 342, nourn
+"regnum civitatis", 7, 211, 342, nourn
+"Alexandri canis", 1, 211, 343, nourn
+"potentia Pompei", 2, 211, 343, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"Ariovisti mors", 3, 211, 343, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"perditorum temeritas", 4, 211, 343, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"liber meus", 1, 212, 343, a, nourn
+"aliena pericula", 2, 212, 343, a, nourn
+"Sullana tempora", 3, 212, 343, a, nourn
+"haec domus est patris mei", 1, 212, 343, b, nourn
+"iam me Pompeii totum esse scis", 2, 212, 343, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"summa laus et tua et Bruti est", 3, 212, 343, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"compendi facere", 3, 212, 343, b, nourn
+"lucri facere", 4, 212, 343, b, nourn
+"neque sui iudicii [erat] discernere", 1, 212, 343, c, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"cuiusvis hominis est errare", 2, 212, 343, c, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"negavit moris esse Graecorum, ut in convivio virorum accumberent mulieres", 3, 212, 343, c, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"sed timidi est optare necem", 4, 212, 343, c, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"stulti erat sperare, suadere impudentis", 5, 212, 343, c, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"sapientis est pauca loqui", 6, 212, 343, c, nourn
+"nomen insaniae", 1, 212, 343, d, nourn
+"oppidum Antiochiae", 2, 212, 343, d, nourn
+"talentum auri", 1, 213, 344, nourn
+"flumina lactis", 2, 213, 344, nourn
+"vir summae virtutis", 1, 213, 345, nourn
+"magnae est deliberationis", 2, 213, 345, nourn
+"magni formica laboris", 3, 213, 345, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"ille autem sui iudicii", 4, 213, 345, urn:cts:latinLit:phi0588.abo025.perseus-lat1
+"eius modi sunt tempestates consecutae, uti", 1, 213, 345, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"fossa trium pedum", 1, 213, 345, b, nourn
+"murus sedecim pedum", 2, 213, 345, b, nourn
+"pars militum", 1, 213, 346, a, 1, nourn
+"nihil erat reliqui", 2, 213, 346, a, 1, norun
+"nemo eorum", 3, 213, 346, a, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"magnam partem eorum interfecerunt", 4, 213, 346, a, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"unus tribunorum", 1, 214, 346, a, 2, nourn
+"sapientum octavus", 2, 214, 346, a, 2, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"milia passuum sescenta", 3, 214, 346, a, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"maior fratrum", 4, 214, 346, a, 2, nourn
+"animalium fortiora", 5, 214, 346, a, 2, nourn
+"Sueborum gens est longe maxima et bellicosissima Germanorum omnium", 6, 214, 346, a, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"alter consulum", 7, 214, 346, a, 2, nourn
+"nulla earum", 8, 214, 346, a, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"tantum spatii", 1, 214, 346, a, 3, nourn
+"aliquid nummorum", 2, 214, 346, a, 3, nourn
+"id loci", 3, 214, 346, a, 3, nourn
+"id temporis", 4, 214, 346, a, 3, nourn
+"plana urbis", 5, 214, 346, a, 3, nourn
+"quid novi", 6, 214, 346, a, 3, nourn
+"paulum frumenti", 7, 214, 346, a, 3, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"plus doloris", 8, 214, 346, a, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"sui aliquid timoris", 9, 214, 346, a, 3, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"parum otii", 1, 214, 346, a, 4, nourn
+"satis pecuniae", 2, 214, 346, a, 4, nourn
+"plurimum totius Galliae equitatu valet", 3, 214, 346, a, 4, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ubinam gentium sumus", 4, 214, 346, a, 4, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"ubicumque terrarum et gentium", 5, 214, 346, a, 4, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"res erat eo iam loci ut", 6, 214, 346, a, 4, urn:cts:latinLit:phi0474.phi022.perseus-lat1
+"eo miseriarum", 7, 214, 346, a, 4, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"inde loci", 8, 214, 346, a, 4, nourn
+"sequimur te, sancte deorum", 1, 214, 346, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"nigrae lanarum", 2, 214, 346, b, urn:cts:latinLit:phi0978.phi001.perseus-lat1
+"expediti militum", 3, 214, 346, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"hominum cunctos", 4, 214, 346, b, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"unus ex tribunis", 1, 215, 346, c, nourn
+"minumus ex illis", 2, 215, 346, c, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"medius ex tribus", 3, 215, 346, c, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"quidam ex militibus", 4, 215, 346, c, nourn
+"unus de multis", 5, 215, 346, c, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"pauci de nostris cadunt", 6, 215, 346, c, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"hominem de comitibus meis", 7, 215, 346, c, nourn
+"uterque consul", 1, 215, 346, d, nourn
+"uterque nostrum", 2, 215, 346, d, nourn
+"unus quisque vestrum", 3, 215, 346, d, nourn
+"utraque castra", 4, 215, 346, d, nourn
+"nos omnes", 1, 215, 346, e, nourn
+"quot sunt hostes", 2, 215, 346, e, nourn
+"cave inimicos, qui multi sunt", 3, 215, 346, e, nourn
+"multi milites", 4, 215, 346, e, nourn
+"nemo Romanus", 5, 215, 346, e, nourn
+"caritas tui", 1, 215, 348, nourn
+"desiderium otii", 2, 215, 348, nourn
+"vacatio muneris", 3, 215, 348, nourn
+"gratia beneficii", 4, 215, 348, nourn
+"fuga malorum", 5, 215, 348, nourn
+"precatio deorum", 6, 215, 348, nourn
+"contentio honorum", 7, 215, 348, nourn
+"opinio virtutis", 8, 215, 348, nourn
+"mea invidia", 1, 216, 348, a, nourn
+"laudator meus", 2, 216, 348, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"Clodianum crimen", 3, 216, 348, a, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"metus hostilis", 4, 216, 348, a, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"ea quae faciebat, tua se fiducia facere dicebat", 5, 216, 348, a, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"neque neglegentia tua, neque id odio fecit tuo", 6, 216, 348, a, urn:cts:latinLit:phi0134.phi004.perseus-lat1
+"animi multarum rerum percursio", 1, 216, 348, b, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"odium in Antonium", 1, 216, 348, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"merita erga me", 2, 216, 348, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"meam in te pietatem", 3, 216, 348, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"impetus in urbem", 4, 216, 348, c, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"excessus e vita", 5, 216, 348, c, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"adoptio in Domitium", 6, 216, 348, c, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"avidi laudis", 1, 216, 349, a, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"fastidiosus litterarum", 2, 216, 349, a, nourn
+"iuris peritus", 3, 216, 349, a, nourn
+"memorem vestri, oblitum sui", 4, 216, 349, a, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"rationis et orationis expertes", 5, 216, 349, a, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"nostrae consuetudinis imperiti", 6, 216, 349, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"plenus fidei", 7, 217, 349, a, nourn
+"omnis spei egenam", 8, 217, 349, a, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"tempestatum potentem", 9, 217, 349, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"impotens irae", 10, 217, 349, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"coniurationis participes", 11, 217, 349, a, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"affinis rei capitalis", 12, 217, 349, a, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"insons culpae", 13, 217, 349, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"si quem tui amantiorem cognovisti", 1, 217, 349, b, urn:cts:latinLit:phi0474.phi058.perseus-lat1
+"multitudo insolens belli", 2, 217, 349, b, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"erat Iugurtha appetens gloriae militaris", 3, 217, 349, b, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"iustum et tenacem propositi virum", 1, 217, 349, c, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"circus capax populi", 2, 217, 349, c, urn:cts:latinLit:phi0959.phi004.perseus-lat1
+"cibi vinique capacissimus", 3, 217, 349, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"callidus rei militaris", 1, 217, 349, d, urn:cts:latinLit:phi1351.phi004.perseus-lat1
+"pauper aquae", 2, 217, 349, d, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"notus animi paterni", 3, 217, 349, d, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"fessi rerum", 4, 217, 349, d, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"integer vitae scelerisque purus", 5, 217, 349, d, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"Cinnam memini", 1, 218, 350, a, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"utinam avum tuum meminisses", 2, 218, 350, a, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"Postuimium, cuius statuam in Isthmo meminisse te dicis", 3, 218, 350, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"omnia meminit Siron Epicuri dogmata", 4, 218, 350, a, urn:cts:latinLit:phi0474.phi045.perseus-lat1
+"multa ab aliis audita meminerunt", 5, 218, 350, a, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"totam causam oblitus est", 6, 218, 350, a, urn:cts:latinLit:phi0474.phi039.perseus-lat1
+"hinc iam obliviscere Graios", 7, 218, 350, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"ipse sui meminerat", 1, 218, 350, b, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"faciam ut huius loci dieique meique semper memineris", 2, 218, 350, b, urn:cts:latinLit:phi0134.phi003.perseus-lat1
+"nec me meminisse pigebit Elissae, dum memor ipse mei", 3, 218, 350, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"meminerint verecundiae", 4, 218, 350, b, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"humanae infirmitatis memini", 5, 218, 350, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"oblivisci temporum meorum, meminisse actionum", 6, 218, 350, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"nec tamen Epicuri licet oblivisci", 7, 218, 350, b, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"oblivscere caedis atque incendiorum", 8, 218, 350, b, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"dulcis moriens reminiscitur Argos", 1, 219, 350, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"reminisceretur et veteris incommodi populi Romani et pristinae vritutis Helvetiorum", 2, 219, 350, c, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"recordare consensum illum theatri", 1, 219, 350, d, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"recordamini omnis civilis dissensiones", 2, 219, 350, d, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"Catilina admonebat alium egestatis, alium cupiditatis suae", 1, 219, 351, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"eos hoc moneo", 2, 219, 351, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"quod vos lex commonet", 3, 219, 351, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"arguit me furti", 1, 220, 352, nourn
+"peculatus damnatus (pecuniae publicae damnatus)", 2, 220, 352, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"video non te absolutum esse improbitatis, sed illos damnatos esse caedis", 3, 220, 352, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"damnare capitis", 1, 220, 352, a, nourn
+"maiestatis [laesae]", 2, 220, 352, a, nourn
+"repetundarum [rerum]", 3, 220, 352, a, nourn
+"voti damnarus", 4, 220, 352, a, nourn
+"pecuniae", 5, 220, 352, a, nourn
+"dupli condemnare", 6, 220, 352, a, nourn
+"Frusinates tertia parte agri damnati", 1, 220, 353, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"de alea", 1, 220, 353, 2, nourn
+"de pecuniis repetundis", 2, 220, 353, 2, nourn
+"inter sicarios", 3, 220, 353, 2, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"de vi et maiestatis damnati", 4, 220, 353, 2, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"miseramini familiae, iudices, miseramini patris, miseramini filii", 1, 221, 354, a, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"miserere animi non digna ferentis", 2, 221, 354, a, eneida - urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"miserescite regis", 3, 221, 354, a, eneida - urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"quos infamiae suae neque pudet neque taedet", 1, 221, 354, b, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"me miseret parietum ipsorum", 2, 221, 354, b, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"me civitatis morum piget taedetque", 3, 221, 354, b, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"decemvirorum vos pertaesum est", 4, 221, 354, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"neque me paenitet mortalis inimicitias habere", 1, 221, 354, c, urn:cts:latinLit:phi0474.phi030.perseus-lat1
+"non dedisse istunc pudet; me quia non accepi piget", 2, 221, 354, c, urn:cts:latinLit:phi0119.phi016.perseus-lat1
+"Clodi intererat Milonem perire", 1, 221, 355, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"aliquid quod illorum magis quam sua retulisse videretur", 2, 221, 355, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"video enim quid mea intersit, quid utriusque nostrum", 3, 221, 355, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"quid tua id refert? magni", 1, 222, 355, a, urn:cts:latinLit:phi0134.phi004.perseus-lat1
+"vehementer intererat vestra qui patres estis", 2, 222, 355, a, urn:cts:latinLit:phi1318.phi001.perseus-lat1
+"magni ad honorem nostrum interest", 1, 222, 355, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"refert etiam ad fructus", 2, 222, 355, b, urn:cts:latinLit:phi0684.phi002.opp-lat1
+"convivium vicinorum compleo", 1, 222, 356, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"implentur veteris Bacchi pinguisque ferinae", 2, 222, 356, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"ne quis auxilii egeat", 3, 222, 356, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quid est quod defensionis indigeat", 4, 222, 356, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"quae ad consolandum maioris ingenii et ad ferendum singularis virtutis indigent", 5, 222, 356, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"illius regni potiri", 1, 223, 357, a, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"Cleanthes solem dominari et rerum potiri putat", 2, 223, 357, a, urn:cts:latinLit:phi0474.phi045.perseus-lat1
+"neque huius sis veritus feminae primariae", 1, 223, 357, b, 1, urn:cts:latinLit:phi0134.phi004.perseus-lat1
+"fastidit mei", 1, 223, 357, b, 2, urn:cts:latinLit:phi0119.phi003.perseus-lat1
+"studet tui", 2, 223, 357, b, 2, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"iustitiaene prius mirer, belline laborum", 1, 223, 357, b, 3, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"neque ille sepositi ciceris nec longae invidit avenae", 2, 223, 357, b, 3, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"laborum decipitur", 3, 223, 357, b, 3, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"me laborum levas", 4, 223, 357, b, 3, urn:cts:latinLit:phi0119.phi017.perseus-lat1
+"Antipho me excruciat animi", 1, 223, 358, urn:cts:latinLit:phi0134.phi004.perseus-lat1
+"qui pendet animi", 2, 223, 358, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"me animi fallit", 3, 223, 358, urn:cts:latinLit:phi0550.phi001.perseus-lat1
+"desipiebam mentis", 4, 223, 358, urn:cts:latinLit:phi0119.phi009.perseus-lat1
+"aeger animi", 5, 223, 358, nourn
+"sanus mentis aut animi", 6, 223, 358, urn:cts:latinLit:phi0119.phi019.perseus-lat1
+"di immortales, mercimoni lepidi", 1, 223, 359, a, urn:cts:latinLit:phi0119.phi013.perseus-lat1
+"foederis heu taciti", 2, 223, 359, a, urn:cts:latinLit:phi0620.phi001.perseus-lat1
+"honoris causa", 1, 224, 359, b, nourn
+"verbi gratia", 2, 224, 359, b, nourn
+"eius legis ergo", 3, 224, 359, b, nourn
+"equus instar montis", 4, 224, 359, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"laterum tenus", 5, 224, 359, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"cedite tempori", 1, 225, 361, nourn
+"provincia Ciceroni obtigit", 2, 225, 361, nourn
+"inimicis non credimus", 3, 225, 361, nourn
+"do tibi librum", 1, 225, 362, nourn
+"illud tibi affirmo", 2, 225, 362, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"commendo tibi eius omnia negotia", 3, 225, 362, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"dabis profecto misericordiae quod iracundiae negavisti", 4, 225, 362, urn:cts:latinLit:phi0474.phi034.perseus-lat1
+"litteras a te mihi stator tuus reddidit", 5, 225, 362, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"mihi id aurum credidit", 1, 225, 362, a, urn:cts:latinLit:phi0119.phi003.perseus-lat1
+"equo ne credite", 2, 225, 362, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"concessit senatus postulationi tuae", 3, 225, 362, a, urn:cts:latinLit:phi0474.phi014.perseus-lat1
+"concedere amicis quidquid velint", 4, 225, 362, a, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"litteras quas ad Pompeium scripsi", 1, 225, 363, 1, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"litterae extemplo Romam scriptae", 2, 226, 363, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"hostis in fugam dat", 3, 226, 363, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"omnes rem ad Pompeium deferri volunt", 4, 226, 363, 1, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"mihi litteras mittere", 1, 226, 363, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"eum librum tibi misi", 2, 226, 363, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"nec quicquam quod non mihi Caesar detulerit", 3, 226, 363, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"cures ut mihi vehantur", 4, 226, 363, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"cum alius alii subsidium ferrent", 5, 226, 363, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"donat coronas suis", 1, 226, 364, nourn
+"donat suos coronis", 2, 226, 364, nourn
+"vincula exuere sibi", 3, 226, 364, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"omnis armis exuit", 4, 226, 364, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"nuntiabantur haec eadem Curioni", 1, 227, 365, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"nec docendi Caesaris propinquis eius spatium datur, nec tribunis plebis sui periculi deprecandi facultas tribuitur", 2, 227, 365, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"provinciae privatis decernuntur", 3, 227, 365, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"cedant arma togae", 1, 227, 366, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"Caesari respondet", 2, 227, 366, nourn
+"Caesari respondetur", 3, 227, 366, nourn
+"respondi maximis criminibus", 4, 227, 366, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"ut ita cuique eveniat", 5, 227, 366, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"auctor esse alicui", 1, 227, 366, a, nourn
+"quis huic rei testis est", 2, 227, 366, a, urn:cts:latinLit:phi0474.phi001.perseus-lat1
+"is finis populationibus fuit", 3, 227, 366, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"legatus fratri", 1, 227, 366, b, urn:cts:latinLit:phi0474.phi014.perseus-lat1
+"ministri sceleribus", 2, 227, 366, b, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"miseriis suis remedium mortem exspectare", 3, 227, 366, b, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"cur mihi invides", 1, 228, 367, nourn
+"mihi parcit atque ignoscit", 2, 228, 367, nourn
+"ignosce patrio dolori", 3, 228, 367, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"subveni patriae, opitulare conlegae", 4, 228, 367, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"mihi non displicet", 5, 228, 367, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"non omnibus servio", 6, 228, 367, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"non parcam operae", 7, 228, 367, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"sic mihi persuasi", 8, 228, 367, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"mihi Fabius debebit ignoscere si minus eius damae parcere videbor quam antea consului", 9, 228, 367, urn:cts:latinLit:phi0474.phi006.perseus-lat1
+"huic legioni Caesar confidebat maxime", 10, 228, 367, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"hic pulvis oculum meum laedit", 1, 228, 367, a, nourn
+"adulatus est Antonio", 1, 229, 367, b, urn:cts:latinLit:phi0588.abo025.perseus-lat1
+"adulari Neronem", 2, 229, 367, b, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"pacem non desperas", 3, 229, 367, b, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"saluti desperare vetuit", 4, 229, 367, b, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"parti civium consulunt", 1, 229, 367, c, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"cum te consuluissem", 2, 229, 367, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"metuens pueris", 3, 229, 367, c, urn:cts:latinLit:phi0119.phi001.perseus-lat1
+"nec metuunt deos", 4, 229, 367, c, urn:cts:latinLit:phi0134.phi005.perseus-lat1
+"prospicite patriae", 5, 229, 367, c, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"prospicere sedem senectuti", 6, 229, 367, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"insidiae consuli", 1, 229, 367, d, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"obtemperatio legibus", 2, 229, 367, d, urn:cts:latinLit:phi0474.phi044.perseus-lat1
+"sibi ipsi responsio", 3, 229, 367, d, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"quod mihi maxime lubet", 1, 229, 368, 1, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"quasi tibi non liceret", 2, 229, 368, 1, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"mihi ipse numquam satisfacio", 1, 229, 368, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"optimo viro maledicere", 2, 229, 368, 2, urn:cts:latinLit:phi0474.phi034.perseus-lat1
+"pulchrum est benefacere rei publicae", 3, 229, 368, 2, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"Pompeio se gratificari putant", 1, 230, 368, 3, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"gratulor tibi, mi Balbe", 2, 230, 368, 3, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"tibi permitto respondere", 3, 230, 368, 3, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"mihi plaudo ipse domi", 4, 230, 368, 3, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"cum inimici M. Fontei vobis ac populo Romano minentur, amici ac propinqui supplicent vobis", 5, 230, 368, 3, urn:cts:latinLit:phi0474.phi007.perseus-lat1
+"contendis Homero", 1, 230, 368, a, urn:cts:latinLit:phi0620.phi001.perseus-lat1
+"placitone etiam pugnabis amori", 2, 230, 368, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"tibi certat", 3, 230, 368, a, urn:cts:latinLit:phi0690.phi001.perseus-lat1
+"differt sermoni", 4, 230, 368, a, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"lateri abdidit ensem", 5, 230, 368, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"cui cum rex crucem minaretur", 1, 230, 369, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"Cretensibus obsides imperavit", 2, 230, 369, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"omnia sibi ignoscere", 3, 230, 369, Velleius urn?
+"Ascanione pater Romanas invidet arces", 4, 230, 369, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"qui iam nunc sanguinem meum sibi indulgeri aequum censet", 1, 230, 369, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"singulis censoribus denarii trecenti imperati sunt", 2, 230, 369, a, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"Scaevolae concessa est facundiae virtus", 3, 230, 369, a, urn:cts:latinLit:phi0474.phi058.perseus-lat1
+"neque enim adsentior eis", 1, 231, 370, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"quantum natura hominis pecudibus antecedit", 2, 231, 370, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"si sibi ipse consentit", 3, 231, 370, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"virtutes semper voluptatibus inhaerent", 4, 231, 370, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"omnibus negotiis non interfuit solum sed praefuit", 5, 231, 370, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"tempestati obsequi artis est", 6, 231, 370, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"nec umquam succumbet inimicis", 7, 231, 370, urn:cts:latinLit:phi0474.phi034.perseus-lat1
+"cum et Brutus cuilibet ducum praeferendus videretur et Vatinius nulli non esset postferendus", 8, 231, 370, Vellius urn?
+"nos oppugnat", 1, 231, 370, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"quis audeat bene comitatum aggredi", 2, 231, 370, b, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"munus obire", 3, 231, 370, b, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"si ille obvius ei futurus non erat", 1, 231, 370, c, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"mihi obviam venisti", 2, 231, 370, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"inhaeret in visceribus", 1, 231, 371, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"homine coniunctio mecum", 2, 231, 371, urn:cts:latinLit:phi0474.phi006.perseus-lat1
+"cum hoc concurrit ipse Eumenes", 3, 231, 371, urn:cts:latinLit:phi0588.abo018.perseus-lat1
+"inserite oculos in curiam", 4, 231, 371, urn:cts:latinLit:phi0474.phi007.perseus-lat1
+"ignis qui est ob os offusus", 5, 231, 371, urn:cts:latinLit:phi0474.phi072.perseus-lat1
+"obicitur contra istorum impetus Macedonia", 6, 231, 371, urn:cts:latinLit:phi0474.phi007.perseus-lat1
+"in segetem flamma incidit", 7, 231, 371, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"cui parci potuit", 1, 231, 372, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"non modo non invidetur illi aetati verum etiam favetur", 2, 231, 372, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"tempori serviendum est", 3, 231, 372, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"est mihi domi pater", 1, 232, 373, urn:cts:latinLit:phi0690.phi001.perseus-lat1
+"homini cum deo similitudo est", 2, 232, 373, urn:cts:latinLit:phi0474.phi044.perseus-lat1
+"quibus opes nullae sunt", 3, 232, 373, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"cui Africano fuit cognomen", 1, 233, 373, a, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"puero ab inopia Egerio inditum nomen", 2, 233, 373, a, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"puero nomen est Marcus", 1, 233, 373, a, 2, nourn
+"cui nomen Arethusa", 2, 233, 373, a, 2, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"hoc unum Caesari defuit", 1, 233, 373, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quid huic abesse poterit", 2, 233, 373, b, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"haec vobis provincia est defendenda", 1, 233, 374, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"mihi est pugnandum", 2, 233, 374, nourn
+"mihi deliberatum et consitutum est", 1, 233, 375, urn:cts:latinLit:phi0474.phi011.perseus-lat1
+"mihi res provisa est", 2, 233, 375, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"sic dissimillimis bestiolis communiter cibus quaeritur", 3, 233, 375, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"neque cernitur ulli", 1, 234, 375, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"felix est dicta sorori", 2, 234, 375, a, urn:cts:latinLit:phi0959.phi007.perseus-lat1
+"Aelia Paetina Narcisso fovebatur", 3, 234, 375, a, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"videtur mihi", 1, 234, 375, b, nourn
+"dis aliter visum [est]", 2, 234, 375, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"videor mihi perspicere ipsius animum", 3, 234, 375, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"tibi aras", 1, 234, 376, urn:cts:latinLit:phi0119.phi011.perseus-lat1
+"tuas res tibi habeto", 2, 234, 376, urn:cts:latinLit:phi0119.phi019.perseus-lat1
+"laudavit mihi fratrem", 3, 234, 376, nourn
+"meritos mactavit honores, taurum Neptuno, taurum tibi, pulcher Apollo", 4, 234, 376, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"iter Poenis vel corporibus suis obstruere", 1, 235, 377, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"se in conspectum nautis dedit", 2, 235, 377, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"versatur mihi ante oculos", 3, 235, 377, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"Plato mihi unus instar est centum milium", 1, 235, 378, 1, urn:cts:latinLit:phi0474.phi039.perseus-lat1
+"erit ille mihi semper deus", 2, 235, 378, 1, urn:cts:latinLit:phi0690.phi001.perseus-lat1
+"quae est ista servitus tam claro homini", 3, 235, 378, 1, urn:cts:latinLit:phi0474.phi047.perseus-lat1
+"oppidum primum Thessaliae venientibus ab Epiro", 1, 235, 378, 2, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"laeva parte sinum intranti", 2, 235, 378, 2, urn:cts:latinLit:phi0690.phi001.perseus-lat1
+"est urbe egressis tumulus", 3, 235, 378, 2, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"quo mihi fortunam", 1, 235, 379, urn:cts:latinLit:phi0893.phi005.perseus-lat1
+"unde mihi lapidem", 2, 235, 379, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"quo tibi, Tilli", 3, 235, 379, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"ei (hei) mihi", 1, 236, 379, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"vae victis", 2, 236, 379, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"em tibi", 3, 236, 379, a, nourn
+"quid mihi Celsus agit", 1, 236, 380, urn:cts:latinLit:phi0893.phi005.perseus-lat1
+"suo sibi servit patri", 2, 236, 380, urn:cts:latinLit:phi0119.phi005.perseus-lat1
+"at tibi repente venit mihi Caninius", 3, 236, 380, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"hem tibi talentum argenti", 4, 236, 380, urn:cts:latinLit:phi0119.phi020.perseus-lat1
+"quid tibi vis", 5, 236, 380, nourn
+"aureum ei detraxit amiculum", 1, 236, 381, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"hunc mihi terrorem eripe", 2, 236, 381, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"vitam adulescentibus vis aufert", 3, 236, 381, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"nihil enim tibi detraxit senatus", 4, 236, 381, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"nec mihi hunc errorem extorqueri volo", 5, 236, 381, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"illum ex periculo eripuit", 1, 237, 381, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"rei publicae cladi sunt", 1, 237, 382, 1, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"magno usui nostris fuit", 2, 237, 382, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"tertiam aciem nostris subsidio misit", 3, 237, 382, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"suis saluti fuit", 4, 237, 382, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"evenit facile quod dis cordi esset", 5, 237, 382, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"locum castris deligit", 1, 237, 382, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"receptui canere", 2, 237, 382, 2, nourn
+"receptui signum", 3, 237, 382, 2, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"optavit locum regno", 4, 237, 382, 2, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"locum insidiis circumspectare", 5, 237, 382, 2, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"nihil est tam naturae aptum", 1, 238, 384, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"nihil difficile amanti puto", 2, 238, 384, urn:cts:latinLit:phi0474.phi040.perseus-lat1
+"castris idoneum locum delegit", 3, 238, 384, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"tribuni nobis sunt amici", 4, 238, 384, urn:cts:latinLit:phi0474.phi058.perseus-lat1
+"esse propitius potest nemini", 5, 238, 384, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"magnis autem viris prosperae semper omnes res", 6, 238, 384, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"sedes huic nostro non importuna sermoni", 7, 238, 384, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"cui fundo erat affinis M. Tullius", 8, 238, 384, urn:cts:latinLit:phi0474.phi006.perseus-lat1
+"convenienter naturae vivere", 9, 238, 384, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"aptus ad rem militarem", 1, 238, 385, a, nourn
+"locus ad insidias aptior", 2, 238, 385, a, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"nobis utile est ad hanc rem", 3, 238, 385, a, urn:cts:latinLit:phi0134.phi001.perseus-lat1
+"comis in uxorem", 1, 239, 385, b, urn:cts:latinLit:phi0893.phi005.perseus-lat1
+"divina bonitas erga homines", 2, 239, 385, b, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"de benevolentia quam quisque habeat erga nos", 3, 239, 385, b, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"gratiorem me esse in te", 4, 239, 385, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"quod ut illi proprium ac perpetuum sit … optare debetis", 1, 239, 385, c, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"fuit hoc quondam proprium populi Romani", 2, 239, 385, c, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"cum utrique sis maxime necessarius", 3, 239, 385, c, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"procuratur aeque utriusque necessarius", 4, 239, 385, c, urn:cts:latinLit:phi0474.phi001.perseus-lat1
+"amicus Ciceroni", 1, 239, 385, c, 1, nourn
+"creticus et eius aequalis paean", 2, 239, 385, c, 1, urn:cts:latinLit:phi0474.phi040.perseus-lat1
+"hi erant affines istius", 3, 239, 385, c, 1, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"domini similis est", 1, 239, 385, c, 2, urn:cts:latinLit:phi0134.phi003.perseus-lat1
+"ut essemus similes deorum", 2, 239, 385, c, 2, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"est similis maiorum suom", 3, 239, 385, c, 2, urn:cts:latinLit:phi0134.phi006.perseus-lat1
+"patris similis esse", 4, 239, 385, c, 2, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"simia quam similis turpissima bestia nobis", 5, 239, 385, c, 2, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"si enim hoc illi simile sit, est illud huic", 6, 239, 385, c, 2, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"Brutus Caesarem interfecit", 1, 240, 387, a, nourn
+"aedem facere", 2, 240, 387, a, nourn
+"Brutus Caesarem interfecit", 1, 241, 387, b, nourn
+"Caesar a Bruto interfectus est", 2, 241, 387, b, nourn
+"domum aedificat", 3, 241, 387, b, nourn
+"domus aedificatur", 4, 241, 387, b, nourn
+"meum casum luctumque doluerunt", 1, 241, 388, a, urn:cts:latinLit:phi0474.phi022.perseus-lat1
+"si non Acrisium risissent Iuppiter et Venus", 2, 241, 388, a, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"ridetur ab omni conventu", 3, 241, 388, a, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"mortem obire", 1, 241, 388, b, nourn
+"consulatum ineunt", 2, 241, 388, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"neminem conveni", 3, 241, 388, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"si insulam adisset", 4, 241, 388, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"transire flumen", 5, 241, 388, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"cives qui circumstant senatum", 6, 241, 388, b, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"ita ut vos decet", 1, 241, 388, c, urn:cts:latinLit:phi0119.phi013.perseus-lat1
+"me pedibus delectat claudere verba", 2, 241, 388, c, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"nisi me fallit", 3, 241, 388, c, nourn
+"iuvit me tibi tuas litteras profuisse", 4, 241, 388, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"te non praeterit", 5, 241, 388, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"ferire foedus", 1, 242, 388, d, nourn
+"vincere iudicium", 2, 242, 388, d, nourn
+"aequor navigare", 3, 242, 388, d, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"maria aspera iuro", 4, 242, 388, d, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"noctis dormire", 5, 242, 388, d, nourn
+"priusquam Pomponius de eius advetu cognosceret", 1, 242, 389, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"tutiorem vitam vivere", 1, 242, 390, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"tertiam iam aetatem hominum vivebat", 2, 242, 390, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"servitutem servire", 3, 242, 390, nourn
+"coire societatem", 4, 242, 390, nourn
+"vinum redolens", 1, 243, 390, a, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"herbam mella sapiunt", 2, 243, 390, a, urn:cts:latinLit:phi0978.phi001.perseus-lat1
+"olere malitiam", 3, 243, 390, a, urn:cts:latinLit:phi0474.phi003.perseus-lat1
+"Cordubae natis poetis, pingue quiddam sonantibus atque peregrinum", 4, 243, 390, a, urn:cts:latinLit:phi0474.phi016.perseus-lat1
+"huic errori similem [errorem] insanire", 1, 243, 390, b, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"saltare Cyclopa", 2, 243, 390, b, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"Bacchanalia vivere", 3, 243, 390, b, urn:cts:latinLit:phi1276.phi001.perseus-lat1
+"Amaryllida resonare", 4, 243, 390, b, urn:cts:latinLit:phi0690.phi001.perseus-lat1
+"intonuit laevum", 5, 243, 390, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"dulce ridentem, dulce loquentem", 6, 243, 390, b, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"acerba tuens", 7, 243, 390, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"torvum clamat", 8, 243, 390, burn:cts:latinLit:phi0690.phi003.perseus-lat1
+"Empedocles multa alia peccat", 1, 243, 390, c, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"ego illud adsentior Theophrasto", 2, 243, 390, c, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"multum te ista fefellit opinio", 3, 243, 390, c, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"plus valeo", 4, 243, 390, c, nourn
+"plurimum potest", 5, 243, 390, c, nourn
+"quid me ista laedunt", 6 243, 390, c, urn:cts:latinLit:phi0474.phi011.perseus-lat1
+"hoc te moneo", 7, 243, 390, c, nourn
+"id laetor", 8, 243, 390, c, nourn
+"quid moror", 9, 243, 390, c, nourn
+"quae homines arant, navigant, aedificant", 10, 243, 390, c, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"si quid ille se velit", 1, 243, 390, d, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"numquid, Geta, aliud me vis", 2, 243, 390, d, urn:cts:latinLit:phi0134.phi004.perseus-lat1
+"quid est quod", 3, 243, 390, d, nourn
+"o Spartace, quem enim te potius appellem", 1, 244, 393, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"Ciceronem consulem creare", 2, 244, 393, nourn
+"me augurem nominaverunt", 3, 244, 393, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"cum gratias ageret quod se consulem fecisset", 4, 244, 393, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"hominem prae se neminem putavit", 5, 244, 393, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"ducem se praebuit", 6, 244, 393, urn:cts:latinLit:phi0474.phi023.perseus-lat1
+"rex ab suis appellatur", 1, 244, 393, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"Caesar Germanos flumen traicit", 1, 245, 395, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"idem ius iurandum adigit Afranium", 2, 245, 395, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"quos Pompeius omnia sua praesidia circumduxit", 3, 245, 395, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"me sententiam rogavit", 1, 246, 396, nourn
+"otium divos rogat", 2, 246, 396, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"haec praetorem postulabas", 3, 246, 396, urn:cts:latinLit:phi0474.phi006.perseus-lat1
+"aedilis populum rogare", 4, 246, 396, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"docere pueros elementa", 5, 246, 396, nourn
+"pacem ab Romanis petierunt", 1, 246, 396, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quod quaesivit ex me P. Apuleius", 2, 246, 396, a, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"Caesar sententiam rogatus est", 1, 246, 396, b, nourn
+"id ab eo flagitabatur", 2, 246, 396, b, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"non te celavi sermonem T. Ampi", 1, 246, 396, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"nec latuere doli fratrem Iunonis", 2, 246, 396, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"id temporis", 1, 247, 397, a, nourn
+"id (istuc) aetatis", 2, 247, 397, a, nourn
+"id (quod) genus", 3, 247, 397, a, norun
+"meam vicem", 4, 247, 397, a, nourn
+"bonam partem", 5, 247, 397, a, nourn
+"maximam partem", 6, 247, 397, a, nourn
+"virile (muliebre) secus", 7, 247, 397, a, nourn
+"quod si", 8, 247, 397, a, nourn
+"quod nisi", 9, 247, 397, a, nourn
+"caput nectentur", 1, 247, 397, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"ardentis oculos suffecti sanguine et igni", 2, 247, 397, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"nuda genu", 3, 247, 397, b, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"femur tragula ictus", 4, 247, 397, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"inutile ferrum cingitur", 1, 247, 397, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"nodo sinus collecta fluentis", 2, 247, 397, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"umeros insternor pelle leonis", 3, 247, 397, c, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"protinus induitur faciem cultumque Dianae", 4, 247, 397, c, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"o fortunatam rem publicam", 1, 247, 397, d, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"o me infelicem", 2, 247, 397, d, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"me miserum", 3, 247, 397, d, nourn
+"en quattuor aras", 4, 247, 397, d, nourn
+"ellum", 5, 247, 397, d, nourn
+"eccos", 6, 247, 397, d, nourn
+"pro deum fidem", 7, 247, 397, d, nourn
+"hocine saeclum", 8, 247, 397, d, urn:cts:latinLit:phi0134.phi006.perseus-lat1
+"huncine hominem", 9, 247, 397, d, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"intellego te sapere", 1, 248, 397, e, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"eas res iactari nolebant", 2, 248, 397, e, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"deserunt tribunal … manus intentantes, causam discordiae et initium armorum", 1, 248, 397, f, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"liberare metu"1, 249, 399, nourn
+"excultus doctrina", 2, 249, 399, nourn
+"hoc ipso tempore", 3, 249, 399, nourn
+"caecus avaritia", 4, 249, 399, nourn
+"occisus gladio", 5, 249, 399, nourn
+"oculis se privavit", 1, 249, 401, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"omni Gallia Romanis interdicit", 2, 249, 401, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ei aqua et igni interdicitur", 3, 249, 401, Vellius urn?
+"voluptatibus carere", 4, 249, 401, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"non egeo medicina", 5, 249, 401, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"levamur superstitione, liberamur mortis metu", 6, 249, 401, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"soluti a cupiditatibus", 7, 249, 401, urn:cts:latinLit:phi0474.phi011.perseus-lat1
+"multos ex his incommodis pecunia se liberasse", 8, 249, 401, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"conatu desistere", 1, 250, 402, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"desine communibus locis", 2, 250, 402, 1, urn:cts:latinLit:phi0474.phi045.perseus-lat1
+"abire magistratu", 3, 250, 402, 1, nourn
+"abstinere iniuria", 4, 250, 402, 1, nourn
+"a proposito aberrare", 1, 250, 402, 2, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"de provincia decedere", 2, 250, 402, 2, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"ab iure abire", 3, 250, 402, 2, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"ex civitate excessere", 4, 250, 402, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"a magno demissum nomen Iulo", 5, 250, 402, 2, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"urbs nuda praesidio", 1, 250, 402, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"immunis militia", 2, 250, 402, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"plebs orba tribunis", 3, 250, 402, a, urn:cts:latinLit:phi0474.phi044.perseus-lat1
+"Rhenus oritur ex Lepontiis", 1, 250, 403, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ab his sermo oritur", 2, 250, 403, 1, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"cuius rationis vim atque utilitatem ex illo caelesti Epicuri volumine accepimus", 3, 250, 403, 1, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"suavitatem odorum qui afflarentur e floribus", 4, 250, 403, 1, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"erat totus ex fraude et mendacio factus", 1, 251, 403, 2, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"valvas magnificentiores, ex auro atque ebore perfectiores", 2, 251, 403, 2, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"factum de cautibus antrum", 3, 251, 403, 2, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"templum de marmore ponam", 4, 251, 403, 2, urn:cts:latinLit:phi0690.phi002.perseus-lat1
+"Iove natus et Maia", 1, 251, 403, a, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"edite regibus", 2, 251, 403, a, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"quo sanguine cretus", 3, 251, 403, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"genitae Pandione", 4, 251, 403, a, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"domus amoenitas non aedifico sed silva constabat", 1, 251, 403, b, urn:cts:latinLit:phi0588.abo025.perseus-lat1
+"ex animo constamus et corpore", 2, 251, 403, b, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"vita corpore et spiritu continetur", 3, 251, 403, b, urn:cts:latinLit:phi0474.phi032.perseus-lat1
+"quid hoc homine faciatis", 1, 251, 403, c, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"quid Tulliola mea fiet", 2, 251, 403, c, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"quid te futurum est", 3, 251, 403, c, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"non pauca pocula ex auro", 1, 252, 403, d, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"scopulis pendentibus antrum", 1, 252, 403, d, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"neglegentia plectimur", 1, 252, 404, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"gubernatoris ars utilitate non arte laudatur", 2, 252, 404, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"certis de causis", 3, 252, 404, nourn
+"ex vulnere aeger", 4, 252, 404, urn:cts:latinLit:phi0474.phi043.perseus-lat1
+"mare a sole lucet", 5, 252, 404, urn:cts:latinLit:phi0474.phi045.perseus-lat1
+"doleo te aliis malis laborare", 1, 252, 404, a, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"exsultare laetitia, triumphare gaudio coepit", 2, 252, 404. a, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"exsilui gaudio", 3, 252, 404, a, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"ardere dolore et ira", 4, 252, 404, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"non ob praedam aut spoliandi cupidine", 1, 252, 404, b, urn:cts:latinLit:phi1351.phi004.perseus-lat1
+"amicitia ex se et propter se expetenda", 2, 252, 404, b, urn:cts:latinLit:phi0474.phi048.perseus-lat1
+"ea causa", 1, 253, 404, c, nourn
+"qua gratia", 2, 253, 404, c, urn:cts:latinLit:phi0134.phi003.perseus-lat1
+"mea causa", 3, 253, 404, c, nourn
+"mea gratia", 4, 253, 404, c, nourn
+"ex mea et rei publicae causa", 5, 253, 404, c, nourn
+"praedictionis causa", 6, 253, 404, c, urn:cts:latinLit:phi0474.phi050.perseus-lat1
+"exempli gratia", 7, 253, 404, c, nourn
+"sui purgandi gratia", 8, 253, 404, c, nourn
+"laudatur ab his, culpatur ab illis", 1, 253, 405, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"ab animo tuo quidquid agitur id agitur a te", 2, 253, 405, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"a filiis in iudicium vocatus est", 3, 253, 405, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"cum a cuncto consessu plausus esset multiplex datus", 4, 253, 405, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"ne virtus ab audacia vinceretur", 5, 253, 405, urn:cts:latinLit:phi0474.phi022.perseus-lat1
+"perire ab hoste", 1, 253, 405, a, nourn
+"ab exploratoribus certior factus est", 1, 253, 405, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"per exploratores Caesar certior factus est", 2, 253, 405, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"elautae opera Neptuni", 3, 253, 405, b, urn:cts:latinLit:phi0119.phi017.perseus-lat1
+"non mea opera evenit", 4, 253, 405, b, urn:cts:latinLit:phi0134.phi005.perseus-lat1
+"Cato est Cicerone eloquentior", 1, 254, 406, nourn
+"quid nobis duobus laboriosius est", 2, 254, 406, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"vilius argentum est auro, virtutibus aurum", 3, 254, 406, urn:cts:latinLit:phi0893.phi005.perseus-lat1
+"celerius opinione", 1, 254, 406, a, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"serius spe omnium", 2, 254, 406, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"amnis solito citatior", 3, 254, 406, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"gravius aequo", 4, 254, 406, a, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"non callidior es quam hic", 1, 254, 407, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"contionibus accommodatior est quam iudiciis", 2, 254, 407, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"misericordia dignior quam contumelia", 3, 254, 407, urn:cts:latinLit:phi0474.phi027.perseus-lat1
+"nihil detestabilius dedecore, nihil foedius servitute", 1, 255, 407, b, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"neminem esse cariorem te", 2, 255, 407, b, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"plus septingenti capti", 1, 255, 407, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"plus tertia parte interfecta", 2, 255, 407, c, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"aditus in latitudinem non amplius ducentorum pedum relinquebatur", 3, 255, 407, c, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"nec quicquam aliud libertate communi", 1, 255, 407, d, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"alius Lysippo", 2, 255, 407, d, urn:cts:latinLit:phi0893.phi005.perseus-lat1
+"num aliud videtur esse ac meorum bonorum direptio", 3, 255, 407, d, urn:cts:latinLit:phi0474.phi020.perseus-lat1
+"erat historia nihil aliud nisi annalium confectio", 4, 255, 407, d, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"tempus te citius quam oratio deficeret", 1, 255, 407, e, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"cur olivum sanguine viperino cautius vitat", 2, 255, 407, e, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"certantes pugnis, calcibus, unguibus, morsu denique", 1, 256, 409, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"cum pugnis et calcibus concisus esset", 2, 256, 409, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"meis laboribus interitu rem publicam liberavi", 3, 256, 409, urn:cts:latinLit:phi0474.phi015.perseus-lat1
+"multae istarum arborum mea manu sunt satae", 4, 256, 409, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"vi victa vis, vel potius oppressa virtute audacia est", 5, 256, 409, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"Deus bonis omnibus explevit mundum", 1, 256, 409, a, urn:cts:latinLit:phi0474.phi072.perseus-lat1
+"aggere et cratibus fossas explent", 2, 256, 409, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"totum montem hominibus complevit", 3, 256, 409, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"opimus praeda", 4, 256, 409, a, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"vita plena et conferta voluptatibus", 5, 256, 409, a, urn:cts:latinLit:phi0474.phi022.perseus-lat1
+"Forum Appi differtum nautis", 6, 256, 409, a, urn:cts:latinLit:phi0893.phi004.perseus-lat1
+"utar vestra benignitate", 1, 257, 410, urn:cts:latinLit:phi0474.phi016.perseus-lat1
+"ita mihi slava re publica vobiscum perfrui liceat", 2, 257, 410, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"fungi inani munere", 3, 257, 410, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"auro heros potitur", 4, 257, 410, urn:cts:latinLit:phi0959.phi006.perseus-lat1
+"lacte et ferina carne vescebantur", 5, 257, 410, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"totius Galliae sese potiri posse sperant", 1, 257, 410, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"magistratibus opus est", 1, 257, 411, urn:cts:latinLit:phi0474.phi044.perseus-lat1
+"nunc viribus usus", 2, 257, 411, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"opus est tua exprompta malitia atque astutia", 1, 257, 411, a, urn:cts:latinLit:phi0134.phi001.perseus-lat1
+"properato opus erat", 2, 257, 411, a, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"dux nobis et auctor opus est", 1, 258, 411, b, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"si quid ipsi opus esset", 2, 258, 411, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quae opus sunt", 3, 258, 411, b, urn:cts:latinLit:phi0022.phi001.opp-lat1
+"cum celeritate venit", 1, 258, 412, nourn
+"summa celeritate venit", 2, 258, 412, nourn
+"quid refert qua me ratione cogatis", 3, 258, 412, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"quanto id cum periculo fecerit", 1, 258, 412, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"non minore cum taedio recubant", 2, 258, 412, a, urn:cts:latinLit:phi1318.phi001.perseus-lat1
+"apis Matinae more modoque carmina fingo", 1, 258, 412, b, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"cum coniungibus ac liberis", 1, 258, 413, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"cum funditoribus sagittariisque flumen transgressi", 2, 258, 413, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quae supplicatio si cum ceteris conferatur", 3, 258, 413, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"quae [lex] esse cum telo vetat", 4, 258, 413, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"si secum suos eduxerit", 5, 258, 413, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"subsequebatur omnibus copiis", 1, 259, 413, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"hoc praesidio profectus est", 2, 259, 413, a, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"armis cum hoste certare", 1, 259, 413, b, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"libenter haec cum Q. Catulo disputarem", 2, 259, 413, b, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"quinque milibus passuum distat", 1, 259, 414, nourn
+"a milibus passuum circiter duobus", 2, 259, 414, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"aliquot ante annis", 3, 259, 414, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"aliquanto post suspexit", 4, 259, 414, urn:cts:latinLit:phi0474.phi043.perseus-lat1
+"multo me vigilare acrius", 5, 259, 414, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"nihilo erat ipse Cyclops quam aries prudentior", 6, 259, 414, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"quo minus cupiditatis, eo plus auctoritatis", 1, 259, 414, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"quanto erat gravior oppugnatio, tanto crebriores litterae mittebantur", 2, 259, 414, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"paulo minus ducentis", 1, 260, 414, b, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"patria, quae mihi vita mea multo est carior", 2, 260, 414, b, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"animo meliore sunt gladiatores", 1, 260, 415, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"quae cum esset civitas aequissimo iure ac foedere", 2, 260, 415, urn:cts:latinLit:phi0474.phi016.perseus-lat1
+"mulierem eximia pulchritudine", 3, 260, 415, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"Aristoteles, vir summo ingenio, scientia, copia", 4, 260, 415, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"de Domitio dixit versum Graecum eadem sententia", 5, 260, 415, urn:cts:latinLit:phi0474.phi034.perseus-lat1
+"capillo sunt promisso", 1, 260, 415, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ut capite operto sit", 2, 260, 415, a, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"quam fuit inbecillus P. Africani filius, quam tenui aut nulla potius valetudine", 3, 260, 415, a, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"agrum vendidit sestertium sex milibus", 1, 261, 416, nourn
+"Antonius regna addixit pecunia", 2, 261, 416, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"logos ridiculos: quis cena poscit", 3, 261, 416, urn:cts:latinLit:phi0119.phi018.perseus-lat1
+"magno illi ea cunctatio stetit", 4, 261, 416, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"mea magni interest", 1, 261, 417, nourn
+"illud parvi refert", 2, 261, 417, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"est mihi tanti", 3, 261, 417, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"Verresne tibi tanti fuit", 4, 261, 417, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"tantone minoris decumae venierunt", 5, 261, 417, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"ut te redimas captum quam queas minimo: si nequeas paululo, at quanti queas", 6, 261, 417, urn:cts:latinLit:phi0134.phi003.perseus-lat1
+"non flacci facio", 1, 261, 417, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"utinam ego istuc abs te factum nili penderem", 2, 261, 417, a, urn:cts:latinLit:phi0134.phi003.perseus-lat1
+"fidem suam et religionem pecunia commutare", 1, 261, 417, b, urn:cts:latinLit:phi0474.phi010.perseus-lat1
+"exsilium patria sede inutavit", 2, 261, 417, b, urn:cts:latinLit:phi0860.phi001.perseus-lat1
+"velox saepe Lucretilem mutat Lycaeo Faunus", 3, 261, 417, b, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"vertere funeribus triumphos", 4, 261, 417, b, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"qunati eam emit? … quot minis? quadraginta minis", 1, 262, 417, c, urn:cts:latinLit:phi0119.phi009.perseus-lat1
+"virtute praecedunt", 1, 262, 418, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"claudus altero pede", 2, 262, 418, urn:cts:latinLit:phi0588.abo017.perseus-lat1
+"lingua haesitantes, voce absoni", 3, 262, 418, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"sunt enim homines non re sed nomine", 4, 262, 418, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"maior natu", 5, 262, 418, nourn
+"minor natu", 6, 262, 418, nourn
+"paulum aetate progressi", 7, 262, 418, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"corpore senex esse poterit, animo numquam erit", 8, 262, 418, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"meo iure", 1, 262, 418, a, nourn
+"meo modo", 2, 262, 418, a, nourn
+"mea sententia", 3, 262, 418, a, nourn
+"ex mea sententia", 4, 262, 418, a, nourn
+"propinquitate coniunctos atque natura", 5, 262, 418, a, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"qui vincit viribus", 6, 262, 418, a, urn:cts:latinLit:phi0474.phi052.perseus-lat1
+"vir patre, avo, maioribus suis dignissimus", 1, 262, 418, b, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"te omni honore indignissimum iudicavit", 2, 262, 418, b, urn:cts:latinLit:phi0474.phi023.perseus-lat1
+"Caesar, acceptis litteris, nuntium mittit", 1, 263, 419, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quibus rebus cognitis Caesar apud milites contionatur", 2, 263, 419, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"fugato omni equitatu", 3, 263, 419, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"interfecto Indutiomaro", 4, 263, 419, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"nondum hieme confecta in finis Nerviorum contendit", 5, 263, 419, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"compressi [sunt] conatus nullo tumultu publice concitato", 6, 263, 419, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"ne vobis quidem omnibus re etiam tum probata", 7, 263, 419, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"exigua parte aestatis reliqua", 1, 263, 419, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"L. Domitio Ap. Claudio consulibus", 2, 263, 419, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"nil desperandum Teucro duce et auspice Teucro", 3, 263, 419, a, urn:cts:latinLit:phi0893.phi001.perseus-lat1
+"incerto quid peterent", 1, 264, 419, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"comperto vanum esse formidinem", 2, 264, 419, b, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"cur praetereatur demonstrato", 3, 264, 419, b, urn:cts:latinLit:phi0474.phi036.perseus-lat1
+"consulto", 1, 264, 419, c, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"mihi optato veneris", 2, 264, 419, c, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"sereno", 3, 264, 419, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"nec auspicato nec litato", 4, 264, 419, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"tranquillo, ut aiunt, quilibet gubernator est", 5, 264, 419, c, urn:cts:latinLit:phi1017.phi015.perseus-lat1
+"patre interfecto", 1, 264, 420, 1, urn:cts:latinLit:phi1017.phi015.perseus-lat1
+"recentibus sceleris eius vestigiis", 2, 264, 420, 1, urn:cts:latinLit:phi0860.phi001.perseus-lat1
+"at ei qui Alesiae obsidebantur praeterita die qua auxilia suorum exspectaverant, consumpto omni frumento, concilio coacto consultabant", 1, 264, 420, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"Dareus, desperata pace, ad reparandas viris intendit animum", 2, 264, 420, 2, urn:cts:latinLit:phi0860.phi001.perseus-lat1
+"at eo repugnate fiebat (consul), immo vero eo fiebat magis", 1, 264, 420, 3, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"turribus excitatis, tamen has altitudo puppium ex barbaris navibus superabat", 2, 264, 420, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"occurrebat ei, mancam et debilem praeturam futuram suam, consule Milone", 1, 265, 420, 4, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"qua (regione) subacta licebit decurrere in illud mare", 2, 265, 420, 4, urn:cts:latinLit:phi0860.phi001.perseus-lat1
+"qua quidem detracta", 3, 265, 420, 4, urn:cts:latinLit:phi0474.phi016.perseus-lat1
+"ego haec a Chrysogono mea sponte, remoto Sex. Roscio, quaero", 1, 265, 420, 5, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"nec imperante nec sciente nec praesente domino", 2, 265, 420, 5, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"constituta die", 1, 266, 423, 1, nourn
+"prima luce", 2, 266, 423, 1, nourn
+"quota hora", 3, 266, 423, 1, nourn
+"tertia vigilia", 4, 266, 423, 1, nourn
+"tribus proximis annis", 5, 266, 423, 1, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"diebus viginti quinque aggerem exstruxerunt", 6, 266, 423, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"dies continuos triginta", 1, 266, 423, 2, nourn
+"cum triduum iter fecisset", 2, 266, 423, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"in diebus proximis decem", 1, 266, 424, a, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"ludi per decem dies", 2, 266, 424, a, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"milites quinque horis proelium sustinuerunt", 1, 266, 424, b, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"quinto die", 1, 266, 424, c, nourn
+"regnat iam sextum annum", 2, 266, 424, c, nourn
+"pugna Cannensi", 1, 266, 424, d, nourn
+"ludis Romanis", 2, 266, 424, d, nourn
+"omnibus Gallicis bellis", 3, 266, 424, d, nourn
+"supplicatio decreta est in Kalendis Ianuarias", 1, 267, 424, e, nourn
+"convenerunt ad diem", 2, 267, 424, e, nourn
+"ad vesperum", 3, 267, 424, e, nourn
+"sub vesperum", 4, 267, 424, e, nourn
+"sub idem tempus", 5, 267, 424, e, nourn
+"sub noctem", 6, 267, 424, e, nourn
+"post tres annos", 1, 267, 424, f, nourn
+"post tertium annos", 2, 267, 424, f, nourn
+"tres post annos", 3, 267, 424, f, nourn
+"tertium post annum", 4, 267, 424, f, nourn
+"tribus post annis", 5, 267, 424, f, nourn
+"tertio post anno", 6, 267, 424, f, nourn
+"tribus annis post exilium", 7, 267, 424, f, nourn
+"his tribus proximis annis", 8, 267, 424, f, nourn
+"paucis annis", 9, 267, 424, f, nourn
+"abhinc annos tres", 10, 267, 424, f, nourn
+"triennium est cum",11, 267, 424, f, nourn
+"octavo mense quam", 12, 267, 424, f, nourn
+"is dies erat a. d. v. Kal. Apr. (quintum Kalendas Aprilis) L. Pisone A. Gabinio consulibus", 1, 267, 424, g, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"in a. d. v. Kal. Nov.", 2, 267, 424, g, urn:cts:latinLit:phi0474.phi013.perseus-lat1
+"xv. Kal. Sextilis", 3, 267, 424, g, nourn
+"fossas quindecim pedes latas", 1, 267, 425, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"progressus milia passuum circiter duodecim", 2, 267, 425, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"in omni vita sua quemque a recta conscientia transversum unguem non oportet discedere", 3, 267, 425, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"vallum duodecim pedum", 1, 268, 425, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"milia passuum tria ab eorum castris castra ponit", 1, 268, 425, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"quinque dierum iter abest", 2, 268, 425, b, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"triginta milibus passuum infra eum locum", 3, 268, 425, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"a septentrione", 1, 268, 426, 1, nourn
+"cum a vobis discessero", 2, 268, 426, 1, urn:cts:latinLit:phi0474.phi051.perseus-lat1
+"de provincia decedere", 3, 268, 426, 1, nourn
+"de monte", 4, 268, 426, 1, nourn
+"negotiator ex Africa", 5, 268, 426, 1, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"ex Britannia obsides miserunt", 6, 268, 426, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"Mosa profluit ex monte Vosego", 7, 268, 426, 1, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"nocte ad Nervios perevenerunt", 1, 268, 426, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"adibam ad istum fundum", 2, 268, 426, 2, urn:cts:latinLit:phi0474.phi008.perseus-lat1
+"in Africam navigavit", 3, 268, 426, 2, nourn
+"In Italiam profectus est", 4, 268, 426, 2, nourn
+"legatum in Treveros mittit", 5, 268, 426, 2, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"in hac urbe vitam degit", 1, 269, 426, 3, nourn
+"si in Gallia remanerent", 2, 269, 426, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"dum haec in Venetis geruntur", 3, 269, 426, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"oppidum in insula positum", 4, 269, 426, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"Roma profectus", 1, 269, 427, 1, nourn
+"Roma abesse", 2, 269, 427, 1, nourn
+"domo abire", 3, 269, 427, 1, nourn
+"rure reversus", 4, 269, 427, 1, nourn
+"cum Romam sexto die Mutina venisset", 1, 269, 427, 2, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"Delo Rhodum navigare", 2, 269, 427, 2, nourn
+"rus ibo", 3, 269, 427, 2, nourn
+"domum iit", 4, 269, 427, 2, nourn
+"Rhomae", 1, 269, 427, 3, nourn
+"Athenis", 2, 269, 427, 3, nourn
+"Rhodi", 3, 269, 427, 3, nourn
+"Lanuvi", 4, 269, 427, 3, nourn
+"Sami", 5, 269, 427, 3, nourn
+"Cypri", 6, 269, 427, 3, nourn
+"Tiburi", 7, 269, 427, 3, nourn
+"Tibure", 8, 269, 427, 3, nourn
+"Curibus", 9, 269, 427, 3, nourn
+"Philippis", 10, 269, 427, 3, nourn
+"Capreis", 11, 269, 427, 3, nourn
+"domi", 12, 269, 427, 3, nourn
+"ruri", 13, 269, 427, 3, nourn
+"belli, militiae", 1, 269, 427, a, nourn
+"humi", 2, 269, 427, a, nourn
+"vesperi", 3, 269, 427, a, nourn
+"foris", 4, 269, 427, a, nourn
+"animi", 5, 269, 427, a, nourn
+"heri", 6, 269, 427, a, nourn
+"temperi", 7, 269, 427, , nourn
+"infelici arbori", 8, 269, 427, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"terra marique", 9, 269, 427, a, nourn
+"ut a Mutina discederet", 1, 270, 428, a, urn:cts:latinLit:phi0474.phi035.perseus-lat1
+"erat a Gergovia despectus in castra", 2, 270, 428, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ad Alesiam proficiscuntur", 3, 270, 428, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"ad Alesiam perveniunt", 4, 270, 428, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"D. Laelius cum classe ad Brundisium venit", 5, 270, 428, a, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"ab urbe", 1, 270, 428, b, nourn
+"in urbe", 2, 270, 428, b, nourn
+"ad urbem", 3, 270, 428, b, nourn
+"Romae in urbe", 4, 270, 428, b, nourn
+"in urbem", 5, 270, 428, b, nourn
+"Roma ex urbe", 6, 270, 428, b, nourn
+"ad urbem Romam", 7, 270, 428, b, nourn
+"pugna ad Cannas", 1, 270, 428, d, nourn
+"conchas ad Caietam legunt", 2, 270, 428, d, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"ad inferos", 3, 270, 428, d, nourn
+"ad foris", 4, 270, 428, d, nourn
+"ad ianuam", 5, 270, 428, d, nourn
+"in Sicilia", 1, 271, 428, e, nourn
+"in Ithaca lepores illati moriuntur", 2, 271, 428, e, urn:cts:latinLit:phi0978.phi001.perseus-lat1
+"cessisset patria", 1, 271, 428, f, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"patira pellere", 2, 271, 428, f, nourn
+"manu mittere", 3, 271, 428, f, nourn
+"manis Acheronte remissos", 1, 271, 428, g, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"Scythia profecti", 2, 271, 428, g, urn:cts:latinLit:phi0860.phi001.perseus-lat1
+"Italiam Laviniaque venit litora", 3, 271, 428, g, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"terram Hesperiam venies", 4, 271, 428, g, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"Aegyptum proficiscitur", 5, 271, 428, g, urn:cts:latinLit:phi1351.phi005.perseus-lat1
+"it clamor caelo", 1, 271, 428, h, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"facilis descensus Averno", 2, 271, 428, h, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"diadema capiti reponere iussit", 3, 271, 428, h. urn:cts:latinLit:phi1038.phi001.perseus-lat1
+"exsequias ire", 1, 271, 428, i, nourn
+"infitias ire", 2, 271, 428, i, nourn
+"pessum ire", 3, 271, 428, i, nourn
+"pessum dare", 4, 271, 428, i, nourn
+"venum dare", 5, 271, 428, i, nourn
+"venum ire", 6, 271, 428, i, nourn
+"foras", 7, 271, 428, i, nourn
+"foras egredi", 8, 271, 428, i, nourn
+"suppetias advenire", 9, 271, 428, i, nourn
+"quadriduo quo haec gesta sunt res ad Chrysogonum in castra L. Sullae Volaterras defertur", 1, 271, 428, j, urn:cts:latinLit:phi0474.phi017.perseus-lat1
+"domum regis", 1, 272, 428, k, urn:cts:latinLit:phi0474.phi034.perseus-lat1
+"domi meae", 2, 272, 428, k, nourn
+"domi Caesaris", 3, 272, 428, k, nourn
+"domi suae vel alienae", 4, 272, 428, k, nourn
+"quibus loco positis", 1, 272, 429, 1, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"qua parte belli vicerant", 2, 272, 429, 1, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"locis certis horrea constituit", 3, 272, 429, 1, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"media urbe", 1, 272, 429, 2, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"tota Sicilia", 2, 272, 429, 2, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"tota Tarracina", 3, 272, 429, 2, urn:cts:latinLit:phi0474.phi037.perseus-lat1
+"cuncta Asia atque Graecia", 4, 272, 429, 2, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"pendemus animis", 1, 272, 429, 3, urn:cts:latinLit:phi0474.phi049.perseus-lat1
+"socius periculis vobiscum adero", 2, 272, 429, 3, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"litore curvo", 1, 272, 429, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"antro seclusa relinquit", 2, 272, 429, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"Epiro, Hesperia", 3, 272, 429, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"premit altum corde dolorem", 4, 272, 429, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"via breviore equites praemisi", 1, 272, 429, a, urn:cts:latinLit:phi0474.phi056.perseus-lat1
+"Aegaeo mari traiecit", 2, 272, 429, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"provehimur pelago", 3, 272, 429, a, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"a tergo", 1, 273, 429, b, nourn
+"a sinistra", 2, 273, 429, b, nourn
+"a parte Pompeiana", 3, 273, 429, b, nourn
+"ex altera parte", 4, 273, 429, b, nourn
+"magna ex parte", 5, 273, 429, b, nourn
+"qui in sede ac domo collocavit", 1, 273, 430, urn:cts:latinLit:phi0474.phi047.perseus-lat1
+"statuitur eques Romanus in Aproni convivio", 2, 273, 430, urn:cts:latinLit:phi0474.phi005.perseus-lat1
+"insula Delos in Aegaeo mari posita", 3, 273, 430, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"si in uno Pompeio omnia poneretis", 4, 273, 430, urn:cts:latinLit:phi0474.phi009.perseus-lat1
+"nominibus veterum gloriantur", 1, 273, 431, urn:cts:latinLit:phi0474.phi040.perseus-lat1
+"spe niti", 2, 273, 431, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"prudentia fidens", 3, 273, 431, urn:cts:latinLit:phi0474.phi055.perseus-lat1
+"fretus gratia Bruti", 1, 273, 431, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"laetus praeda", 2, 273, 431, a, nourn
+"contentus sorte", 3, 273, 431, a, nourn
+"non fuit contentus gloria", 4, 273, 431, a, urn:cts:latinLit:phi0474.phi020.perseus-lat1
+"pridie Nonas Maias", 1, 274, 432, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"postridie ludos", 2, 274, 432, a, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"propius periculum", 3, 274, 432, a, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"propior montem", 4, 274, 432, a, urn:cts:latinLit:phi0631.phi002.perseus-lat1
+"proximus mare oceanum", 5, 274, 432, a, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"terminos usque Libyae", 1, 274, 432, b, Marcus Iunianus Iustinus urn?
+"usque ad castra hostium", 2, 274, 432, b, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"rem creditori palam populo solvit", 1, 274, 432, c, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"haud procul castris in modum municipi exstructa", 2, 274, 432, c, urn:cts:latinLit:phi1351.phi004.perseus-lat1
+"simul nobis habitat barbarus", 3, 274, 432, c, urn:cts:latinLit:phi0959.phi008.perseus-lat1
+"clam matrem suam", 1, 274, 432, d, urn:cts:latinLit:phi0119.phi012.perseus-lat1
+"clam patris", 2, 274, 432, d, urn:cts:latinLit:phi0119.phi011.perseus-lat1
+"clam vobis", 3, 274, 432, d, urn:cts:latinLit:phi0448.phi002.perseus-lat1
+"quos paulo ante diximus", 1, 275, 433, 1, urn:cts:latinLit:phi0474.phi039.perseus-lat1
+"post tribus diebus", 2, 275, 433, 1, nourn
+"nemo adversus ibat", 1, 275, 433, 2, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"circiter pars quarta", 2, 275, 433, 2, urn:cts:latinLit:phi0631.phi001.perseus-lat2
+"prope exanimatus", 3, 275, 433, 2, nourn
+"a milibus passuum ciriciter duobus Romanorum adventum exspectabant", 1, 275, 433, 3, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"Aeolus haec contra", 1, 275, 433, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"forte fuit iuxta tumulus", 2, 275, 433, 4, urn:cts:latinLit:phi0690.phi003.perseus-lat1
+"neque ante dimisit eum quam fidem dedit", 1, 275, 434, urn:cts:latinLit:phi0914.phi001.opp-lat1
+"post diem tertium quam dixerat", 2, 275, 434, urn:cts:latinLit:phi0474.phi031.perseus-lat1
+"Cato ipse iam servire quam pugnare mavult", 3, 275, 434, urn:cts:latinLit:phi0474.phi057.perseus-lat1
+"Gallorum quam Romanorum imperia praeferre", 4, 275, 434, urn:cts:latinLit:phi0448.phi001.perseus-lat1
+"[usus] quem penes arbitrium est et ius et norma loquendi", 1, 275, 435, urn:cts:latinLit:phi0893.phi006.perseus-lat1
+"cuius a me corpus est crematum, quod contra decuit ab illo meum", 2, 275, 435, urn:cts:latinLit:phi0474.phi051.perseus-lat1

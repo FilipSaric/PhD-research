@@ -1,0 +1,3204 @@
+<examples-verb>
+  <example>
+    <latin>longum est</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>277</par>
+    <page>437</page>
+    <par-sect>a</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>satius erat</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>277</par>
+    <page>437</page>
+    <par-sect>a</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>persequi possum</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>277</par>
+    <page>437</page>
+    <par-sect>a</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>hos latrones interficiamus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>278</par>
+    <page>439</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>caveant intemperantiam, meminerint verecundiae</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>278</par>
+    <page>439</page>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iniurias fortunae, quas ferre nequeas, defugiendo relinquas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>exoriare aliquis ultor</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>isto bono utare dum adsit, cum absit ne requiras</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>doceas iter et sacra ostia pandas</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>moreretur, inquies</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi030.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>potius doceret</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne poposcisses</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>saltem aliquid de pondere detraxisset</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>279</par>
+    <page>439</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sit fur, sit sacrilegus: at est bonus imperator</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>279</par>
+    <page>440</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fuerit aliis; tibi quando esse coepit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>279</par>
+    <page>440</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nemo is umquam fuit: ne fuerit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>279</par>
+    <page>440</page>
+    <urn>urn:cts:latinLit:phi0474.phi040.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne sit summum malum dolor, malum certe est</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>279</par>
+    <page>440</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ita vivam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne vivam si scio</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>di te perduint</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <urn>urn:cts:latinLit:phi0474.phi034.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>valeant, valeant cives mei; sint incolumes</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>di facerent sine patre forem</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>di faxint</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quod di omen averterint</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>280</par>
+    <page>441</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>falsus utinam vates sim</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>utinam Clodius viveret</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>utinam me mortuum vidisses</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <urn>urn:cts:latinLit:phi0474.phi058.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>utinam ne vere scriberem</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ut pereat positum robigine telum</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>o si angulus ille accedat</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si nunc se nobis ille aureus ramus ostendat</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>280</par>
+    <page>442</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>velim tibi persuadeas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>281</par>
+    <page>442</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>de Menedemo vellem verum fuisset, de regina velim verum sit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>281</par>
+    <page>442</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nollem accidisset tempus</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>281</par>
+    <page>442</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>mallem Cerberum metueres</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>281</par>
+    <page>442</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quid agam, iudices? quo me vertam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>etiamne eam salutem</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0119.phi017.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quid hoc homine facias? quod supplicium dignum libidini eius invenias</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>an ego non venirem</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quid dicerem</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quis enim celaverit ignem</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <urn>urn:cts:latinLit:phi0959.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>mihi umquam bonorum praesidium defuturum putarem</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>281</par>
+    <page>444</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>pace tua dixerim</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>haud sciam an</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tu velim sic existimes</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>certum affirmare non ausim</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>credas non de puero scriptum sed a puero</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi1318.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>crederes victos</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>reos diceres</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>videres susurros</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>freto assimilare possis</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>282</par>
+    <page>447</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nil ego contulerim iucundo sanus amico</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fortunam citius reperias quam retineas</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0622.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>hic quaerat quispiam</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>forsitan quaeratis qui iste terror est</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>forsitan temere fecerim</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quaeres fortasse</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>283</par>
+    <page>447</page>
+    <par-sect>3</par-sect>
+    <par-subsect>b</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>consulite vobis, prospicite patriae, conservate vos</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dic, Marce Tulli, sententiam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>te ipsum concute</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>vive, valeque</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>miserere animi non digna ferentis</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ollis salus populi suprema lex esto</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi044.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iusta imperia sunto, eisque cives modeste parento</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>283</par>
+    <page>448</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi044.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cras petito, dabitur</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi011.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cum valetudini consulueris, tum consulito navigationi</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Phyllida mitte mihi, meus est natalis, Iolla; cum faciam vitula pro frugibus, ipse venito</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dic quibus in terris, etc., et Phyllida solus habeto</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>is iuris civilis custos esto</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi044.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Borea flante, ne arato, semen ne iacito</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0978.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>filiolo me auctum scito</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sic habeto, mi Tiro</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>de pallia memento, amabo</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0119.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si quid acciderit novi, facies ut sciam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>b</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quin accipis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>b</par-subsect>
+    <urn>urn:cts:latinLit:phi0134.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cura ut Romae sis</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>c</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fac ut valetudinem cures</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>c</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>domi adsitis facite</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>c</par-subsect>
+    <urn>urn:cts:latinLit:phi0134.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>eum mihi velim mittas</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>284</par>
+    <page>449</page>
+    <par-sect>2</par-sect>
+    <par-subsect>c</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>noli putare</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi033.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>noli impudens esse</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nolite cogere socios</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cave putes</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cave ignoscas</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi033.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>cave festines</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne necesse habueris</latin>
+    <example-in-par-sect>7</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne sis admiratus</latin>
+    <example-in-par-sect>8</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hoc facito; hoc ne feceris</latin>
+    <example-in-par-sect>9</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne Apellae quidem dixeris</latin>
+    <example-in-par-sect>10</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne vos quidem mortem timueritis</latin>
+    <example-in-par-sect>11</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ne time</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi008.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nimium ne crede colori</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>equo ne credite</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>285</par>
+    <page>450</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dolere malum est</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>286</par>
+    <page>452</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>bellum est sua vitia nosse</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>286</par>
+    <page>452</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>praestat componere fluctus</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>286</par>
+    <page>452</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>proinde quasi iniuram facere id demum esset imperio uti</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>286</par>
+    <page>452</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0631.phi001.perseus-lat2</urn>
+  </example>
+  <example>
+    <latin>id est convenienter naturae vivere</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>286</par>
+    <page>452</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quos omnis eadem cupere, eadem odisse, eadem metuere, in unum coegit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>287</par>
+    <page>452</page>
+    <par-sect>3</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0631.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ingenuas didicisse fideliter artis emollit mores</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>287</par>
+    <page>452</page>
+    <par-sect>3</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0959.phi009.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>posse loqui eripitur</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>287</par>
+    <page>452</page>
+    <par-sect>3</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>beate vivere alii in alio, vos voluptate ponitis</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>287</par>
+    <page>453</page>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quam multa ? facimus causa amicorum, precari ab indigno, suplicare, etc.</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>287</par>
+    <page>453</page>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nihil exploratum habeas, ne amare quidem aut amari</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>287</par>
+    <page>453</page>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>libet mihi considerare</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>287</par>
+    <page>454</page>
+    <urn>urn:cts:latinLit:phi0474.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>necesse est mori</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>287</par>
+    <page>454</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quid attinet gloriose loqui nisi constanter loquare</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>287</par>
+    <page>454</page>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>neque me vixisse paenitet</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>287</par>
+    <page>454</page>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>gubernare me taedebat</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>287</par>
+    <page>454</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>rogant ut id sibi facere liceat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non lubet enim mihi deplorare vitam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>visum est mihi de senectute aliquid conscribere</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quid est tam secundum naturam quam senibus emori</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>exstingui homini suo tempore optabile est</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si licet vivere eum quem Sex. Naevius non volt</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nonne oportuit praescisse me ante</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>oratorem irasci minime decet</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>puderet me dicere</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>consilia ineunt quorum eos in vestigio paenitere necesse est</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>expedit bonas esse vobis</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0134.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>licuit esse otioso Themistocli</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>mihi neglegenti esse non licet</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cur his esse liberos non licet</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi017.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non est omnibus stantibus necesse dicere</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>288</par>
+    <page>455</page>
+    <par-sect>2</par-sect>
+    <par-subsect>a</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi032.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hoc queo dicere</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>mitto quarere</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>vereor laudare praesentem</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>oro ut matures venire</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>oblivisci non possum quae volo</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>desine id me docere</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dicere solebat</latin>
+    <example-in-par-sect>7</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>audeo dicere</latin>
+    <example-in-par-sect>8</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>loqui posse coepi</latin>
+    <example-in-par-sect>9</example-in-par-sect>
+    <par>289</par>
+    <page>456</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>decernere optabat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0860.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>optavit ut tolleretur</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>oppugnare contendit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>contendit ut caperet</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>bellum gerere constituit</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>constitueram ut manerem</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>289</par>
+    <page>457</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>furit te reperire</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>290</par>
+    <page>457</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>saevit exstinguere nomen</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>290</par>
+    <page>457</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fuge quaerere</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>290</par>
+    <page>457</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>parce pias scelerare manus</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>290</par>
+    <page>457</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fierique studebam eius prudentia doctior</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>290</par>
+    <page>458</page>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>scio quam soleas esse occupatus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>290</par>
+    <page>458</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>brevis esse laboro, obsucurus fio</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>290</par>
+    <page>458</page>
+    <urn>urn:cts:latinLit:phi0893.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dicit montem ab hostibus teneri</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>290</par>
+    <page>459</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tantum habeo polliceri</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ut Iovi bibere ministraret</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>meridie bibere dato</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0022.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>id quod parati sunt facere</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>adsuefacti superari</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>curru succedere sueti</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>copias bellare consuetas</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>290</par>
+    <page>460</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0426.phi001</urn>
+  </example>
+  <example>
+    <latin>filius intro iit videre quid agat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>291</par>
+    <page>460</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non ferro Libycos populare Penatis venimus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>291</par>
+    <page>460</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>loricam donat habere viro</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>291</par>
+    <page>460</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>durus componere versus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cantari dignus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fortis tractare serpentis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cantare periti</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>faciles aurem praebere</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0620.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nescia vinci pectora</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>te videre aegroti</latin>
+    <example-in-par-sect>7</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <urn>urn:cts:latinLit:phi0119.phi019.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fingit equum docilem magister ire viam qua monstret eques</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hic levare ? pauperem laboribus vocatus audit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hoc non dolere</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nostrum vivere</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0969.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>scire tuum</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>291</par>
+    <page>461</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0969.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>te in tantas aerumnas propter me incidisse</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>292</par>
+    <page>462</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>mene incepto desistere victam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>292</par>
+    <page>462</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quamquam quid loquor? te ut ulla res frangat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>292</par>
+    <page>462</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>egone ut te interpellem</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>292</par>
+    <page>462</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ego tibi irascerer</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>292</par>
+    <page>462</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi058.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tum Catilina polliceri novas tabulas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>292</par>
+    <page>463</page>
+    <urn>urn:cts:latinLit:phi0631.phi001.perseus-lat2</urn>
+  </example>
+  <example>
+    <latin>ego instare ut mihi responderet</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>292</par>
+    <page>463</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>pars cedere, alii insequi; neque signa ordines observare; ubi quemque periculum ceperat, ibi resistere ac propulsare; arma, tela, equi, viri, hostes atque cives permixti; nihil consilio neque imperio agi; fors omnia regere</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>292</par>
+    <page>463</page>
+    <urn>urn:cts:latinLit:phi0631.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>senatus haec intelligit, consul videt, hic tamen vivit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tibi concedo meas sedis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>exspecto quid velis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0134.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tu actionem instituis, ille aciem instruit</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0474.phi014.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>minora di neglegunt</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>obsequium amicos, veritas odium parit</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <urn>urn:cts:latinLit:phi0134.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Epicurus vero ea dicit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>apud illum Ulixes lamentatur in volnere</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Polyphemum Homerus cum ariete colloquentum facit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>294</par>
+    <page>465</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iam diu ignoro quid agas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>te iam dudum hortor</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>patimur multos iam annos</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>anni sunt octo cum ista causa versatur</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi010.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>annum iam audis Cratippum</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>adhuc Plancius me retinet</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>294</par>
+    <page>466</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iam iamque manu tenet</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>295</par>
+    <page>467</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>densos fertur in hostis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>295</par>
+    <page>467</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>decerno quinquaginta dierum supplicationes</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>295</par>
+    <page>467</page>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>imusne sessum</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>295</par>
+    <page>468</page>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hodie uxorem ducis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>295</par>
+    <page>468</page>
+    <urn>urn:cts:latinLit:phi0134.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quod si fit, pereo funditus</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>295</par>
+    <page>468</page>
+    <urn>urn:cts:latinLit:phi0134.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ecquid me adiuvas</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>295</par>
+    <page>468</page>
+    <urn>urn:cts:latinLit:phi0474.phi010.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>in ius voco te. non eo. non is</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>295</par>
+    <page>468</page>
+    <urn>urn:cts:latinLit:phi0119.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>affertur nuntius Syracusas; curritur ad praetorium; Cleomenes in publico esse non audet, includit se domi</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>295</par>
+    <page>469</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Roma interim crescit Albae ruinis: duplicatur civium numerus; Caelius additur urbi mons</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>295</par>
+    <page>469</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>hunc audiebat antea</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>296</par>
+    <page>470</page>
+    <urn>urn:cts:latinLit:phi0474.phi009.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>[Socrates] ita censebat itaque disseruit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>296</par>
+    <page>470</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>prudens esse putabatur</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>296</par>
+    <page>470</page>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iamque rubescebat Aurora</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>296</par>
+    <page>470</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ara vetus stabat</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>296</par>
+    <page>470</page>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>erant omnino itinera duo ? mons altissimus impendebat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>296</par>
+    <page>471</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iam dudum flebam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>296</par>
+    <page>471</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>copias quas diu comparabant</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>296</par>
+    <page>471</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>in exsilium eiciebam quem iam ingressum esse in bellum videbam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hunc igitur diem sibi proponens Milo, cruentis manibus ad illa augusta centuriarum auspicia veniebat</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si licitum esset veniebant</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>o tu quoque aderas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ehem, tun hic eras, mi Phaedria</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>a miser! quanta laborabas Charybdi</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ad amicum Calliclem quoi rem aibat mandasse hic suam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi019.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>praesagibat mi animus frustra me ire quom exibam domo</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>itaque (Damocles) nec pulchros illos ministratores aspiciebat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nec enim dum eram vobiscum animum meum videbatis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Lentulus satis erat fortis orator, sed cogitandi non ferebat laborem</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>297</par>
+    <page>471</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi039.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cum aderit videbit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>298</par>
+    <page>472</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>sanabimur si volemus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>298</par>
+    <page>472</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ut ego feci, qui Graecas litteras senex didici</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>298</par>
+    <page>473</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>diuturni silenti finem hodiernus dies attulit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>298</par>
+    <page>473</page>
+    <urn>urn:cts:latinLit:phi0474.phi032.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tantum bellum extrema hieme apparavit, ineunte vere suscepit, media aestate confecit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>298</par>
+    <page>473</page>
+    <urn>urn:cts:latinLit:phi0474.phi009.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui in compedibus corporis semper fuerunt, etiam cum soluti sunt tardius ingrediuntur</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>298</par>
+    <page>473</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>simul ac mihi collibitum est, praesto est imago</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>298</par>
+    <page>473</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>haec morte effugiuntur, etiam si non evenerunt, tamen quia possunt evenire</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>299</par>
+    <page>473</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fuit ista quondam in hac re publica virtus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>299</par>
+    <page>474</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>habuit, non habet</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>299</par>
+    <page>474</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>filium habeo ? immo habui; nunc habeam necne incertumst</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>299</par>
+    <page>474</page>
+    <urn>urn:cts:latinLit:phi0134.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fuimus Troes, fuit Ilium</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>299</par>
+    <page>474</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui studet contingere metam multa tulit fecitque</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>299</par>
+    <page>475</page>
+    <urn>urn:cts:latinLit:phi0893.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non aeris acervus et auri deduxit corpore febris</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>299</par>
+    <page>475</page>
+    <urn>urn:cts:latinLit:phi0893.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dicebat melius quam scripsit Hortensius</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>299</par>
+    <page>475</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi040.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui dies aestus maximos efficere consuevit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>299</par>
+    <page>476</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cuius splendor obsolevit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>300</par>
+    <page>476</page>
+    <urn>urn:cts:latinLit:phi0474.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>loci natura erat haec, quem locum nostri castris delegerant</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>300</par>
+    <page>477</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Viridovix summam imperi tenebat earum omnium civitatum quae defecerant</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>300</par>
+    <page>477</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>neque vero cum aliquid mandaverat confectum putabat</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>300</par>
+    <page>477</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quae si quando adepta est id quod ei fuerat concupitum, tum fert alacritatem</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>300</par>
+    <page>477</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ut sementem feceris, ita metes</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>300</par>
+    <page>478</page>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>carmina tum melius, cum venerit ipse, canemus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>300</par>
+    <page>478</page>
+    <urn>urn:cts:latinLit:phi0690.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si illius insidiae clariores hac luce fuerint, tum denique obsecrabo</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>300</par>
+    <page>478</page>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ego certe meum officium praestitero</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>300</par>
+    <page>478</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>neque tamen, haec cum scribebam, eram nescius quantis oneribus premerere</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>301</par>
+    <page>479</page>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ad tuas omnis [epistulas] rescripseram pridie</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>301</par>
+    <page>479</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cum quod scriberem ad te nihil haberem, tamen has dedi litteras</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>301</par>
+    <page>479</page>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>scribit ut nos moneat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>303</par>
+    <page>484</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>rogo quid feceris</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>303</par>
+    <page>484</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>scripsit ut nos moneret</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>303</par>
+    <page>484</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>rogavi quid faceres</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>303</par>
+    <page>484</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>demonstrat, si venerint, multos interituros</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>303</par>
+    <page>484</page>
+    <par-sect>c</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>demonstravit, si venissent, multos interituros</latin>
+    <example-in-par-sect>303</example-in-par-sect>
+    <par>484</par>
+    <page>c</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>ut satis esset praesidii provisum est</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>303</par>
+    <page>485</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>adduxi hominem in quo satisfacere exteris nationibus possetis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>303</par>
+    <page>485</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>est enim res iam in eum locum adducta, ut quamquam multum intersit inter eorum causas qui dimicant, tamen inter victorias non multum interfuturum putem</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ea adhibita doctrina est quae vel vitiosissimam naturam excolere possit</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi058.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non dubito quin omnes tui scripserint</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>1</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qua re non ignoro quid accidat in ultimis terris, cum audierim in Italia querallas civium</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>1</par-subsect>
+  </example>
+  <example>
+    <latin>me autem hic laudat quod rettulerim, non quod patefecerim</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>2</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi057.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si forte ceciderunt, tum intellegitur quam fuerint inopes amicorum</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>3</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui status rerum fuerit cum has litteras dedi, scire poteris ex C. Titio Strabone</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>3</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quam civitati carus fuerit maerore funeris indicatum est</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>3</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ex epistolis intellegi licet quam frequens fuerit Platonis auditor</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>304</par>
+    <page>485</page>
+    <par-sect>b</par-sect>
+    <par-subsect>3</par-subsect>
+    <urn>urn:cts:latinLit:phi0474.phi040.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Hortensius ardebat dicendi cupiditate sic ut in nullo umquam flagrantius studium viderim</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi039.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>[Siciliam Verres] per triennium ita vexavit ac perdidit ut ea restitui in antiquum statum nullo modo possit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>videor esse consecutus ut non possit Dolabella in Italiam pervenire</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ex his quae tribuisset, sibi quam mutabilis esset reputabat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ibi quantam vim ad stimulandos animos ira haberet apparuit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>rogat ut curet quod dixisset</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>interim cotidie Caesar Haeduos frumentum, quod essent polliciti, flagitare</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>305</par>
+    <page>485</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quia tale sit, ut vel si ignorarent id homines vel si obmutuissent</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>g</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quaero a te cur C. Cornelium non defenderem</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>g</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi023.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si alii consules essent, ad te potissimum, Paule, mitterem, ut eos mihi quam amicissimos redderes</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>h</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si solos eos diceres miseros quibus moriendum esset, neminem exciperes</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>h</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sed si res coget, est quiddam tertium, quod neque Selicio nec mihi displicebat: ut neque iacere rem pateremur, etc.</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>i</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sed tamen ut scires, haec tibi scribo</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>i</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cuius praecepti tanta vis est ut ea non homini cuipiam sed Delphico deo tribueretur</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>i</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi044.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sed tamen qua re acciderit ut ex meis superioribus litteris id suspicarere nescio</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>j</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tantum profecisse videmur ut a Graecis ne verborum quidem copia vinceremur</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>306</par>
+    <page>485</page>
+    <par-sect>j</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi050.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi052.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>pecunia, quam his oportuit civitatibus pro frumento dari</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>consul esse qui potui, nisi eum vitae cursum tenuissem a pueritia</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi043.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tametsi statim vicisse debeo</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>bellum quod possumus ante hiemem perfecisse</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>nil ego, si peccem, possum nescisse</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0959.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Chaldaeum nequem consuluisse velit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0022.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>nolito devellisse</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi015.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nequis humasse velit Aiacem</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nequis eorum Bacchanal habuisse vellet</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>307</par>
+    <page>486</page>
+    <par-sect>c</par-sect>
+    <urn>urn?</urn>
+  </example>
+  <example>
+    <latin>domestica cura te levatum volo</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi058.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>illos monitos volo</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui illam [patriam] exstinctam cupit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi048.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>illud te esse admonitum volo</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi024.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui se ab omnibus desertos potius quam abs te defensos esse malunt</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nemo eorum est qui non perisse te cupiat</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>haud equidem premendo alium me extulisse velim</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>sunt qui nolint tetigisse</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>commisisse cavet</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nunc quem tetigisse timerent, anguis eras</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0959.phi006.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fratresque tendentes opaco Pelion imposuisse Olympo</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>e</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non paenitebat intercapedinem scribendi fecisse</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>pudet me non praestitisse</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sunt quos pulverem Olympicum collegisse iuvat</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quiesse erit melius</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>ac si quis amet scripsisse</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn:cts:latinLit:phi0893.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>id solum dixisse satis habeo</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>308</par>
+    <page>486</page>
+    <par-sect>f</par-sect>
+    <urn>urn?</urn>
+  </example>
+  <example>
+    <latin>querenti mihi iam diu certa res nulla veniebat in mentem</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>309</par>
+    <page>490</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>C. Flaminio restitit agrum Picentem dividenti</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>310</par>
+    <page>490</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Eurypylum scitantem oracula mittimus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>310</par>
+    <page>490</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>rem incredibilem rati</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>310</par>
+    <page>491</page>
+    <urn>urn:cts:latinLit:phi0631.phi001.perseus-lat2</urn>
+  </example>
+  <example>
+    <latin>insidias veritus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>310</par>
+    <page>491</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cohortatus milites docuit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>310</par>
+    <page>491</page>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iratus dixisti</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>310</par>
+    <page>491</page>
+    <urn>urn:cts:latinLit:phi0474.phi014.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ad pugnam congressi</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>310</par>
+    <page>491</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>obiere dum calciantur matutino duo Caesares</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>310</par>
+    <page>492</page>
+    <urn>urn:cts:latinLit:phi0978.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>meque ista delectant cum Latine dicuntur</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>310</par>
+    <page>492</page>
+    <urn>urn:cts:latinLit:phi0474.phi045.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nam singulas [navis] nostri consectati expugnaverunt</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>310</par>
+    <page>493</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>itaque convocatis centurionibus milites certiores facit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>311</par>
+    <page>493</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cum venisset animadvertit collem</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>311</par>
+    <page>493</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>postquam id animum advertit copias suas Caesar in proximum collem subducit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>311</par>
+    <page>493</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>aeger et flagrans animus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <urn>urn:cts:latinLit:phi1351.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cum antiquissimam sententiam tum comprobatam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>signa numquam fere mentientia</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>auspiciis utuntur coactis</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>quo mulieri esset res cautior</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>in illis artibus praestantissimus</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sibi indulgentes et corpori deservientes</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi044.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>recte facta paria esse debent</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi047.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>male parta male dilabuntur</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>consuetudo valentis</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>311</par>
+    <page>494</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Gallia est divisa</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>311</par>
+    <page>495</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>locus qui nunc saeptus est</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>311</par>
+    <page>495</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>videtis ut senectus sit operosa et semper agens aliquid et moliens</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>311</par>
+    <page>495</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nemo adhuc convenire me voluit cui fuerim occupatus</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>311</par>
+    <page>495</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>volventes hostilia cadavera amicum reperiebant</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0631.phi001.perseus-lat2</urn>
+  </example>
+  <example>
+    <latin>paululum commoratus, signa canere iubet</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0631.phi001.perseus-lat2</urn>
+  </example>
+  <example>
+    <latin>longius prosequi veritus, ad Ciceronem pervenit</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>qui sciret laxas dare iussus habenas</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>damnatum poenam sequi oportebat</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>salutem insperantibus reddidisti</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0474.phi032.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Dardanius caput ecce puer detectus</latin>
+    <example-in-par-sect>7</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nec trepides in usum poscentis aevi pauca</latin>
+    <example-in-par-sect>8</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0893.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>incitati fuga montis altissimos petebant</latin>
+    <example-in-par-sect>9</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>milites sublevati alii ab aliis magnam partem itineris conficerent</latin>
+    <example-in-par-sect>10</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hoc laudans, Pompeius idem iuravit</latin>
+    <example-in-par-sect>11</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>aut sedens aut ambulans disputabam</latin>
+    <example-in-par-sect>12</example-in-par-sect>
+    <par>312</par>
+    <page>496</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ante conditam condendamve urbem</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>illi libertatem imminutam civium Romanorum non tulerunt; vos ereptam vitam neglegetis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+  </example>
+  <example>
+    <latin>post natos homines</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <urn>urn:cts:latinLit:phi0474.phi039.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>iam a condita urbe</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>opus facto est viatico</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi019.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>maturato opus est</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>fidem quam habent spectatam iam et diu cognitam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>cohortis in acie LXXX constitutas habebat</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nefarios duces captos iam et comprehensos tenetis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>313</par>
+    <page>497</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>praefectos suos multi missos fecerunt</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>314</par>
+    <page>497</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>hic transactum reddet omne</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>314</par>
+    <page>497</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ademptum tibi iam faxo omnem metum</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>314</par>
+    <page>497</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>illam tibi incesam dabo</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>314</par>
+    <page>497</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0134.phi004.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ut eum nemo umquam in equo sedentem viderit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>314</par>
+    <page>497</page>
+    <par-sect>d</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>morere, Diagora, non enim in caelum adscensurus es</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>314</par>
+    <page>498</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sperat adulescens diu se victurum</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>314</par>
+    <page>498</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>neque petiturus umquam consulatum videretur</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>314</par>
+    <page>498</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>rem ausus plus famae habituram</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>314</par>
+    <page>499</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>egreditur castris Romanus vallum invasurus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>315</par>
+    <page>499</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>dispersos per agros milites equitibus invasuris</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>315</par>
+    <page>499</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>si periturus abis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>315</par>
+    <page>499</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0690.phi003.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>dedit mihi quantum maximum potuit, daturus amplius si potuisset</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>315</par>
+    <page>499</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi1318.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>fortem et conservandum virum</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi031.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>gravis iniuria facta est et non ferenda</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>1</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi017.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non agitanda res erit</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>2</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>tempori serviendum est</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi056.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>legibus parendum est</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>3</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>utendum exercitationibus modicis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>agitandumst vigilias</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0119.phi019.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>via quam nobis ingrediendum sit</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>315</par>
+    <page>500</page>
+    <par-sect>3</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>redemptor qui columnam illam conduxerat faciendam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>316</par>
+    <page>500</page>
+    <par-sect>4</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>aedem Castoris habuit tuendam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>316</par>
+    <page>500</page>
+    <par-sect>4</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>navis atque onera adservanda curabat</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>316</par>
+    <page>500</page>
+    <par-sect>4</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>ars bene disserendi et vera ac falsa diiudicandi</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>316</par>
+    <page>502</page>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>paratiores ad omnia pericula subeunda</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>316</par>
+    <page>503</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>vivendi finis est optimus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>317</par>
+    <page>504</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>neque consilii habendi neque arma capiendi spatio dato</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>317</par>
+    <page>504</page>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>non tam commutandarum quam evertendarum rerum cupidos</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>317</par>
+    <page>504</page>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nulla causa iusta cuiquam esse potest contra patriam arma capiendi</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>317</par>
+    <page>504</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi035.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>artem vera ac falsa diiudicandi</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>317</par>
+    <page>504</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi037.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>pabulandi aut frumentandi causa progressi</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>vitandae suspicionis causa</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>simulandi gratia</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0631.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>exercendae memoriae gratia</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>reiciendi trium iudicum potestas</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>sui colligendi facultas</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>318</par>
+    <page>504</page>
+    <par-sect>c</par-sect>
+    <urn>urn:cts:latinLit:phi0448.phi001.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>diem praestitit operi faciendo</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>praeesse agro colendo</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <urn>urn:cts:latinLit:phi0474.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>esse solvendo</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>genus armorum aptum tegendis corporibus</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>reliqua tempora demetendis fructibus et percipiendis accommodata sunt</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>perferendis militum mandatis idoneus</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>318</par>
+    <page>505</page>
+    <par-sect>a</par-sect>
+    <urn>urn:cts:latinLit:phi1351.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>comitia consulibus rogandis</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>319</par>
+    <page>505</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0474.phi053.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>triumvir coloniis deducundis</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>319</par>
+    <page>505</page>
+    <par-sect>b</par-sect>
+    <urn>urn:cts:latinLit:phi0631.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>triumviri rei publicae constituendae</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>319</par>
+    <page>505</page>
+    <par-sect>b</par-sect>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>me vocas ad scribendam</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>319</par>
+    <page>506</page>
+    <urn>urn:cts:latinLit:phi0474.phi040.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>vivis non ad deponendam sed ad confirmandam audaciam</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>319</par>
+    <page>506</page>
+    <urn>urn:cts:latinLit:phi0474.phi013.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>nactus aditus ad ea conanda</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>319</par>
+    <page>506</page>
+    <urn>urn:cts:latinLit:phi0448.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>multa pollicendo persuadet</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>319</par>
+    <page>507</page>
+    <urn>urn:cts:latinLit:phi0631.phi002.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>Latine loquendo cuivis par</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>319</par>
+    <page>507</page>
+    <urn>urn:cts:latinLit:phi0474.phi039.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>his ipsis legendis</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>319</par>
+    <page>507</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>obscuram atque humilem conciendo ad se multitudinem</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>319</par>
+    <page>507</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>nullum officium referenda gratia magis necessarium est</latin>
+    <example-in-par-sect>5</example-in-par-sect>
+    <par>319</par>
+    <page>507</page>
+    <urn>urn:cts:latinLit:phi0474.phi055.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>in re gerenda versari</latin>
+    <example-in-par-sect>6</example-in-par-sect>
+    <par>319</par>
+    <page>507urn:cts:latinLit:phi0474.phi051.perseus-lat1</page>
+  </example>
+  <example>
+    <latin>quid est, imusne sessum? etsi admonitum venimus te, non flagitatum</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>320</par>
+    <page>509</page>
+  </example>
+  <example>
+    <latin>nuptum dare (collocare)</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>320</par>
+    <page>509</page>
+    <urn>nourn</urn>
+  </example>
+  <example>
+    <latin>venerunt questum iniurias</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>320</par>
+    <page>509</page>
+    <urn>urn:cts:latinLit:phi0914.phi001.opp-lat1</urn>
+  </example>
+  <example>
+    <latin>rem non modo visu foedam, sed etiam auditu</latin>
+    <example-in-par-sect>1</example-in-par-sect>
+    <par>320</par>
+    <page>510</page>
+  </example>
+  <example>
+    <latin>quaerunt quid optimum factu sit</latin>
+    <example-in-par-sect>2</example-in-par-sect>
+    <par>320</par>
+    <page>510</page>
+    <urn>urn:cts:latinLit:phi0474.phi005.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>si hoc fas est dictu</latin>
+    <example-in-par-sect>3</example-in-par-sect>
+    <par>320</par>
+    <page>510</page>
+    <urn>urn:cts:latinLit:phi0474.phi049.perseus-lat1</urn>
+  </example>
+  <example>
+    <latin>videtis nefas esse dictu miseram fuisse talem senectutem</latin>
+    <example-in-par-sect>4</example-in-par-sect>
+    <par>320</par>
+    <page>510</page>
+    <urn>urn:cts:latinLit:phi0474.phi051.perseus-lat1</urn>
+  </example>
+</examples-verb>

@@ -1,0 +1,153 @@
+Bellum Africum - urn:cts:latinLit:phi0426.phi001 ?
+
+Caesar
+De bello civili - urn:cts:latinLit:phi0448.phi002.perseus-lat1
+De bello Gallico - urn:cts:latinLit:phi0448.phi001.perseus-lat1
+
+Cato
+De re rustica - urn:cts:latinLit:phi0022.phi001.opp-lat1
+
+Cicero
+Academica - urn:cts:latinLit:phi0474.phi045.perseus-lat1
+Brutus - urn:cts:latinLit:phi0474.phi039.perseus-lat1
+Cato Maior de senectute - urn:cts:latinLit:phi0474.phi051.perseus-lat1
+De divinatione - urn:cts:latinLit:phi0474.phi053.perseus-lat1
+De domo sua - urn:cts:latinLit:phi0474.phi020.perseus-lat1
+De finibus bonorum et malorum - urn:cts:latinLit:phi0474.phi048.perseus-lat1
+De Imperio Cn. Pompei (Manil.) - urn:cts:latinLit:phi0474.phi009.perseus-lat1
+De inventio - urn:cts:latinLit:phi0474.phi036.perseus-lat1
+De lege agraria - urn:cts:latinLit:phi0474.phi011.perseus-lat1
+De legibus - urn:cts:latinLit:phi0474.phi044.perseus-lat1
+De natura deorum - urn:cts:latinLit:phi0474.phi050.perseus-lat1
+De officiis - urn:cts:latinLit:phi0474.phi055.perseus-lat1
+De oratore - urn:cts:latinLit:phi0474.phi037.perseus-lat1
+De republica - urn:cts:latinLit:phi0474.phi043.perseus-lat1
+Divinatio - urn:cts:latinLit:phi0474.phi004.perseus-lat1
+Epistuale ad Atticum - urn:cts:latinLit:phi0474.phi057.perseus-lat1
+Epistulae ad familiares - urn:cts:latinLit:phi0474.phi056.perseus-lat1
+Epistulae ad fratrem Quintum (Q. Fr.) - urn:cts:latinLit:phi0474.phi058.perseus-lat1
+In Catilinam - urn:cts:latinLit:phi0474.phi013.perseus-lat1
+In Caecilium (Q. C.) - urn:cts:latinLit:phi0474.phi004.perseus-lat1
+In Pisonem - urn:cts:latinLit:phi0474.phi027.perseus-lat1
+In Verrem - urn:cts:latinLit:phi0474.phi005.perseus-lat1
+In Vatinium - urn:cts:latinLit:phi0474.phi023.perseus-lat1
+Laelius - urn:cts:latinLit:phi0474.phi052.perseus-lat1
+Orator - urn:cts:latinLit:phi0474.phi040.perseus-lat1
+Paradoxa Stoicorum - urn:cts:latinLit:phi0474.phi047.perseus-lat1
+Philippicae - urn:cts:latinLit:phi0474.phi035.perseus-lat1
+Pro Archia - urn:cts:latinLit:phi0474.phi016.perseus-lat1
+Pro Aulo Caecina - urn:cts:latinLit:phi0474.phi008.perseus-lat1
+Pro Caelio - urn:cts:latinLit:phi0474.phi024.perseus-lat1
+Pro Cluentio - urn:cts:latinLit:phi0474.phi010.perseus-lat1
+Pro Deiotaro - urn:cts:latinLit:phi0474.phi034.perseus-lat1
+Pro Flacco - urn:cts:latinLit:phi0474.phi017.perseus-lat1
+Peo Fonteio - urn:cts:latinLit:phi0474.phi007.perseus-lat1
+Pro Ligario - urn:cts:latinLit:phi0474.phi033.opp-lat1
+Pro Marcello - urn:cts:latinLit:phi0474.phi032.perseus-lat1
+Pro Milone - urn:cts:latinLit:phi0474.phi031.perseus-lat1
+Pro Murena - urn:cts:latinLit:phi0474.phi014.perseus-lat1
+Pro Rabirio Postumo - urn:cts:latinLit:phi0474.phi030.perseus-lat1
+Pro Roscio Comodeo - urn:cts:latinLit:phi0474.phi003.perseus-lat1
+Pro Quinctio - urn:cts:latinLit:phi0474.phi001.perseus-lat1
+Pro Sestio - urn:cts:latinLit:phi0474.phi022.perseus-lat1
+Pro Sexto Roscio Amerino - urn:cts:latinLit:phi0474.phi002.perseus-lat1
+Pro Sulla - urn:cts:latinLit:phi0474.phi015.perseus-lat1
+Pro Tullio - urn:cts:latinLit:phi0474.phi006.perseus-lat1
+Timaeus - urn:cts:latinLit:phi0474.phi072.perseus-lat1
+Tusculanae disputatione - urn:cts:latinLit:phi0474.phi049.perseus-lat1
+
+Cornelius Nepos
+Agesilaus - urn:cts:latinLit:phi0588.abo017.perseus-lat1
+Atticum - urn:cts:latinLit:phi0588.abo025.perseus-lat1
+Eumenes - urn:cts:latinLit:phi0588.abo018.perseus-lat1
+
+Curtius Rufus
+Historiarum Alexandri Magni - urn:cts:latinLit:phi0860.phi001.perseus-lat1
+
+Horatius
+Ars poetica - urn:cts:latinLit:phi0893.phi006.perseus-lat1
+Epistulae - urn:cts:latinLit:phi0893.phi005.perseus-lat1
+Odes - urn:cts:latinLit:phi0893.phi001.perseus-lat1
+Satyrarum libri - urn:cts:latinLit:phi0893.phi004.perseus-lat1
+
+Iuvenalis
+Saturae - urn:cts:latinLit:phi1276.phi001.perseus-lat1
+
+Livius
+Ab urbe condita - urn:cts:latinLit:phi0914.phi001.opp-lat1
+
+Lucretius
+De rerum natura - urn:cts:latinLit:phi0550.phi001.perseus-lat1
+
+Ovidius
+Ars amatoria - urn:cts:latinLit:phi0959.phi004.perseus-lat1
+Epistulae - urn:cts:latinLit:phi0959.phi002.perseus-lat1
+Ex Ponto - urn:cts:latinLit:phi0959.phi009.perseus-lat1
+Fasti - urn:cts:latinLit:phi0959.phi007.perseus-lat1
+Metamorphoses - urn:cts:latinLit:phi0959.phi006.perseus-lat1
+Tristium - urn:cts:latinLit:phi0959.phi008.perseus-lat1
+
+Persius
+Satyrae - urn:cts:latinLit:phi0969.phi001.perseus-lat1
+
+Plautus
+Amphitruo - urn:cts:latinLit:phi0119.phi001.perseus-lat1
+Asiniria - urn:cts:latinLit:phi0119.phi002.perseus-lat1
+Aulularia - urn:cts:latinLit:phi0119.phi003.perseus-lat1
+Captivi - urn:cts:latinLit:phi0119.phi005.perseus-lat1
+Curculio - urn:cts:latinLit:phi0119.phi008.perseus-lat1
+Epidicus - urn:cts:latinLit:phi0119.phi009.perseus-lat1
+Mercator - urn:cts:latinLit:phi0119.phi011.perseus-lat1
+Miles gloriosus - urn:cts:latinLit:phi0119.phi012.perseus-lat1
+Mostellaria - urn:cts:latinLit:phi0119.phi013.perseus-lat1
+Poenulus - urn:cts:latinLit:phi0119.phi015.perseus-lat1
+Pseudolus - urn:cts:latinLit:phi0119.phi016.perseus-lat1
+Rudens - urn:cts:latinLit:phi0119.phi017.perseus-lat1
+Stichus - urn:cts:latinLit:phi0119.phi018.perseus-lat1
+Trinummus - urn:cts:latinLit:phi0119.phi019.perseus-lat1
+Truculentus - urn:cts:latinLit:phi0119.phi020.perseus-lat1
+
+Plinius Maior
+Naturalis historia - urn:cts:latinLit:phi0978.phi001.perseus-lat1
+
+Plinius Minor
+Epistulae - urn:cts:latinLit:phi1318.phi001.perseus-lat1
+
+Propertius
+Elegiae - urn:cts:latinLit:phi0620.phi001.perseus-lat1
+
+Publilius Syruss
+Sententiae - urn:cts:latinLit:phi0622.phi001.opp-lat1
+
+Salustius
+Bellum Iugurthinum - urn:cts:latinLit:phi0631.phi002.perseus-lat1
+Catilinae coniuratio - urn:cts:latinLit:phi0631.phi001.perseus-lat2
+
+Seneca
+Epistulae ad Lucilium - urn:cts:latinLit:phi1017.phi015.perseus-lat1
+
+Tacitus
+Annales - urn:cts:latinLit:phi1351.phi005.perseus-lat1
+Historiae - urn:cts:latinLit:phi1351.phi004.perseus-lat1
+
+Terentius
+Adelphoe - urn:cts:latinLit:phi0134.phi006.perseus-lat1
+Andria - urn:cts:latinLit:phi0134.phi001.perseus-lat1
+Eunuchus - urn:cts:latinLit:phi0134.phi003.perseus-lat1
+Heautontimorumenos - urn:cts:latinLit:phi0134.phi002.perseus-lat1
+Hecyra - urn:cts:latinLit:phi0134.phi005.perseus-lat1
+Phormio - urn:cts:latinLit:phi0134.phi004.perseus-lat1
+
+Valerius Maximus
+Facta et dicta memorabilia - urn:cts:latinLit:phi1038.phi001.perseus-lat1
+
+Varro
+Res rusticarum - urn:cts:latinLit:phi0684.phi002.opp-lat1
+
+Velleius Paterculus
+Historiae Romanae - ?
+
+Vergilius
+Aeneis - urn:cts:latinLit:phi0690.phi003.perseus-lat1
+Eclogae - urn:cts:latinLit:phi0690.phi001.perseus-lat1
+Georgicon - urn:cts:latinLit:phi0690.phi002.perseus-lat1

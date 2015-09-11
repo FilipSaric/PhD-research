@@ -1,0 +1,9 @@
+for $c in //csv return rename node $c as "examples-case",
+for $r in //record return rename node $r as "example",
+for $e in //entry[1] return rename node $e as "latin",
+for $f in //entry[2] return rename node $f as "example-in-par-sect",
+for $g in //entry[3] return rename node $g as "par",
+for $h in //entry[4] return rename node $h as "page",
+for $i in //entry[5] return if ($i[matches($i,"urn")]) then rename node $i as "urn" else rename node $i as "par-sect",
+for $j in //entry[6] return if ($j[matches($j,"urn")]) then rename node $j as "urn" else rename node $j as "par-subsect",
+for $k in //entry[7] return rename node $k as "urn"
